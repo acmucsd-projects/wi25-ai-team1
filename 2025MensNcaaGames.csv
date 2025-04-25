@@ -1,848 +1,922 @@
 ,Team 1,Team 1 Score,Team 2,Team 2 Score
-0,Wabash,0,Ball St.,3
-1,Wabash,0,Ball St.,3
-2,Thomas More,0,Ball St.,3
-3,Wabash,1,Thomas More,3
-4,North Greenville,0,Ohio St.,3
-5,Fort Valley St.,0,Pepperdine,3
-6,Loyola Chicago,0,Hawaii,3
-7,NJIT,1,UC Santa Barbara,3
-8,Central St. (OH),0,Penn St.,3
-9,Grand Canyon,3,CSUN,0
-10,Fort Valley St.,0,UCLA,3
-11,George Mason,1,UC San Diego,3
-12,Morehouse,0,UCLA,3
-13,Fort Valley St.,0,Southern California,3
-14,Grand Canyon,3,UC San Diego,0
-15,Thomas More,0,Purdue Fort Wayne,3
-16,Lewis,3,Central St. (OH),0
-17,George Mason,2,UC Santa Barbara,3
-18,Morehouse,0,Pepperdine,3
-19,Ball St.,0,BYU,3
-20,NJIT,1,CSUN,3
-21,Loyola Chicago,3,Hawaii,2
-22,Morehouse,0,Southern California,3
-23,George Mason,3,CSUN,1
-24,North Greenville,0,Purdue Fort Wayne,3
-25,Lewis,2,Penn St.,3
-26,NJIT,2,UC San Diego,3
-27,Ball St.,0,BYU,3
-28,Grand Canyon,3,UC Santa Barbara,1
-29,Daemen,1,Ohio St.,3
-30,Loyola Chicago,0,Stanford,3
-31,Princeton,3,Queens (NC),0
-32,Saint Francis (PA),1,Ohio St.,3
-33,Loyola Chicago,2,Stanford,3
-34,George Mason,3,UC Irvine,2
-35,Thomas More,0,Lincoln Memorial,3
-36,Princeton,3,Queens (NC),1
-37,Erskine,3,Tusculum,0
-38,Stevens,3,Sacred Heart,1
-39,Saint Francis (PA),0,UC Irvine,3
-40,LIU,0,CUI,3
-41,Emmanuel (GA),0,Hawaii,3
-42,Regis (MA),2,American Int'l,3
-43,Kentucky St.,0,Thomas More,3
-44,UC San Diego,0,Ball St.,3
-45,Lees-McRae,0,Penn St.,3
-46,BYU,3,Loyola Chicago,2
-47,Harvard,1,Southern California,3
-48,UCLA,3,Lewis,1
-49,Belmont Abbey,3,FDU,2
-50,Barton,1,FDU,3
-51,King (TN),0,NJIT,3
-52,St. Thomas Aquinas,0,Belmont Abbey,3
-53,Queens (NC),0,Charleston (WV),3
-54,Lees-McRae,2,Saint Vincent,3
-55,Tusculum,1,Ball St.,3
-56,Purdue Fort Wayne,3,Sacred Heart,1
-57,Edward Waters,3,Erskine,2
-58,Lindenwood,1,Grand Canyon,3
-59,Dominican (IL),0,Quincy,3
-60,Harvard,1,CSUN,3
-61,Stanford,3,UC Santa Barbara,2
-62,LIU,0,Long Beach St.,3
-63,Springfield,0,CUI,3
-64,Fort Valley St.,,Talladega,
-65,Emmanuel (GA),0,Hawaii,3
-66,BYU,2,Lewis,3
-67,Barton,3,St. Thomas Aquinas,0
-68,Belmont Abbey,3,Sacred Heart,0
-69,Kentucky St.,0,Maryville (MO),3
-70,St. Thomas Aquinas,0,FDU,3
-71,Roanoke,0,Mount Olive,3
-72,Barton,3,Sacred Heart,2
-73,King (TN),0,Penn St.,3
-74,Mount Olive,3,Randolph-Macon,0
-75,Tusculum,0,Ball St.,3
-76,UC San Diego,2,Ohio St.,3
-77,Purdue Fort Wayne,2,NJIT,3
-78,LIU,1,Pepperdine,3
-79,Stanford,3,UC Santa Barbara,1
-80,UCLA,3,Loyola Chicago,0
-81,Princeton,1,UC Irvine,3
-82,Saint Francis (PA),1,Long Beach St.,3
-83,Lincoln Memorial,1,Southern California,3
-84,Daemen,,Roberts Wesleyan,
-85,Lees-McRae,0,Charleston (WV),3
-86,Lindenwood,0,Grand Canyon,3
-87,Dominican (IL),0,Missouri S&T,3
-88,Lincoln Memorial,0,Pepperdine,3
-89,Central St. (OH),0,Thomas More,3
-90,Trine,0,Ball St.,3
-91,Princeton,3,UC San Diego,0
-92,Cal Lutheran,0,CSUN,3
-93,Quincy,3,Central St. (OH),0
-94,Lees-McRae,1,Queens (NC),3
-95,FDU,3,Roberts Wesleyan,0
-96,Long Beach St.,3,Merrimack,0
-97,McKendree,0,UC Irvine,3
-98,Dominican (NY),,Daemen,
-99,Harvard,,D'Youville,
-100,LIU,3,St. Thomas Aquinas,0
-101,Mount Olive,0,Queens (NC),3
-102,FDU,3,Roberts Wesleyan,0
-103,Tusculum,3,King (TN),2
-104,Maryville (MO),3,IIT,0
-105,Harvard,,Daemen,
-106,Long Beach St.,3,George Mason,1
-107,Ball St.,1,Southern California,3
-108,Ohio St.,3,UCLA,2
-109,Lees-McRae,2,Roanoke,3
-110,Quincy,3,Thomas More,0
-111,Benedict,0,Erskine,3
-112,American Int'l,0,D'Youville,3
-113,Emmanuel (GA),0,Charleston (WV),3
-114,Maryville (MO),0,Purdue Fort Wayne,3
-115,Lindenwood,0,NJIT,3
-116,Penn St.,0,Stanford,3
-117,Kentucky St.,0,Loyola Chicago,3
-118,Merrimack,0,Lewis,3
-119,Princeton,3,CSUN,2
-120,McKendree,1,Pepperdine,3
-121,BYU,3,UC Santa Barbara,1
-122,Grand Canyon,3,UC San Diego,0
-123,Southern Va.,3,Lees-McRae,0
-124,American Int'l,0,Daemen,3
-125,Dominican (NY),0,Saint Francis (PA),3
-126,Truett-McConnell,1,Fort Valley St.,3
-127,North Greenville,2,Lincoln Memorial,3
-128,Wittenberg,0,Lees-McRae,3
-129,Southern California,2,Ohio St.,3
-130,Central St. (OH),1,Dominican (NY),3
-131,Truett-McConnell,3,Morehouse,0
-132,Stanford,3,Ball St.,1
-133,Erskine,0,Queens (NC),3
-134,Central St. (OH),0,Saint Francis (PA),3
-135,Edward Waters,0,Charleston (WV),3
-136,McKendree,0,Pepperdine,3
-137,George Mason,3,Sacred Heart,0
-138,Lindenwood,3,LIU,0
-139,Long Beach St.,3,NJIT,1
-140,UCLA,3,Penn St.,0
-141,Merrimack,0,Loyola Chicago,3
-142,Kentucky St.,0,Lewis,3
-143,BYU,3,UC Santa Barbara,0
-144,Princeton,0,BYU,3
-145,North Greenville,3,Tusculum,1
-146,Mt. St. Joseph,0,Thomas More,3
-147,Princeton,0,BYU,3
-148,Queens (NC),3,Belmont Abbey,1
-149,Tusculum,0,Erskine,3
-150,Roberts Wesleyan,0,D'Youville,3
-151,CSUN,3,Southern California,2
-152,Central St. (OH),0,CUI,3
-153,Penn St.,3,Ohio St.,1
-154,Warner,0,Daemen,3
-155,Hawaii,3,Purdue Fort Wayne,1
-156,Lindenwood,1,Maryville (MO),3
-157,UC Santa Barbara,3,UCLA,2
-158,Central St. (OH),0,Southern California,3
-159,Missouri S&T,2,Morningside,3
-160,Houghton,0,Roberts Wesleyan,3
-161,Mount Olive,3,East. Mennonite,1
-162,Missouri S&T,3,Viterbo,0
-163,Redeemer Ancas. (CAN),3,Roberts Wesleyan,2
-164,Emmanuel (GA),0,Lincoln Memorial,3
-165,Erskine,3,Benedict,0
-166,Mount Olive,3,Va. Wesleyan,1
-167,St. Thomas Aquinas,0,FDU,3
-168,D'Youville,3,Dominican (NY),0
-169,NJIT,3,Saint Francis (PA),2
-170,American Int'l,0,Merrimack,3
-171,Hawaii,3,Purdue Fort Wayne,0
-172,Harvard,3,Sacred Heart,2
-173,LIU,0,Loyola Chicago,3
-174,George Mason,0,Lewis,3
-175,King (TN),0,McKendree,3
-176,Menlo,3,UC Santa Cruz,2
-177,UC Irvine,3,BYU,1
-178,UCLA,3,UC San Diego,0
-179,Pepperdine,0,Long Beach St.,3
-180,St. Andrews,0,Mount Olive,3
-181,East. Mennonite,0,Barton,3
-182,Randolph-Macon,0,Mount Olive,3
-183,Geneva,1,Roberts Wesleyan,3
-184,Missouri S&T,3,Ottawa (KS),0
-185,Queens (NC),2,NJIT,3
-186,Barton,3,Va. Wesleyan,0
-187,Charleston (WV),2,Lincoln Memorial,3
-188,King (TN),0,Lindenwood,3
-189,Missouri S&T,1,Park (MO),3
-190,Redeemer Ancas. (CAN),1,Roberts Wesleyan,3
-191,George Mason,1,Loyola Chicago,3
-192,McKendree,3,Maryville (MO),1
-193,LIU,3,Lewis,1
-194,Central St. (OH),0,CSUN,3
-195,UC Irvine,3,BYU,2
-196,CUI,0,Long Beach St.,3
-197,D'Youville,3,St. Thomas Aquinas,2
-198,Queens (NC),0,Saint Francis (PA),3
-199,Charleston (WV),3,Tusculum,0
-200,Ohio St.,2,Penn St.,3
-201,Hawaii,3,Ball St.,1
-202,Emmanuel (GA),3,Edward Waters,1
-203,Yeshiva,0,Dominican (NY),3
-204,Missouri S&T,0,Quincy,3
-205,Concordia Chicago,0,Roosevelt,3
-206,Benedict,0,Belmont Abbey,3
-207,St. Thomas Aquinas,1,Sacred Heart,3
-208,UC Santa Barbara,1,Princeton,3
-209,Grand Canyon,3,Merrimack,1
-210,Dominican (NY),0,LIU,3
-211,Lewis,3,Lindenwood,1
-212,UCLA,3,UC Irvine,2
-213,Southern California,2,UC San Diego,3
-214,Loyola Chicago,1,Ball St.,3
-215,Kentucky St.,3,Benedict,2
-216,Daemen,3,UC Santa Barbara,2
-217,Pepperdine,0,Princeton,3
-218,LIU,2,NJIT,3
-219,Edward Waters,3,Talladega,0
-220,Lincoln Memorial,3,Erskine,1
-221,FDU,3,Dominican (NY),1
-222,Penn St.,3,Ball St.,0
-223,Thomas More,0,Charleston (WV),3
-224,Saint Francis (PA),2,Purdue Fort Wayne,3
-225,Grand Canyon,3,Harvard,0
-226,American Int'l,0,Sacred Heart,3
-227,St. Xavier,2,Missouri S&T,3
-228,Olivet Nazarene,0,Maryville (MO),3
-229,Lewis,3,McKendree,1
-230,Queens (NC),3,Quincy,2
-231,UC Irvine,1,UCLA,3
-232,King (TN),0,Long Beach St.,3
-233,UC San Diego,0,Southern California,3
-234,CSUN,1,Stanford,3
-235,Tusculum,0,Hawaii,3
-236,Russell Sage,0,St. Thomas Aquinas,3
-237,Benedict,0,Truett-McConnell,3
-238,Lincoln Memorial,3,Emmanuel (GA),1
-239,Roberts Wesleyan,3,Houghton,0
-240,Central St. (OH),0,Charleston (WV),3
-241,Daemen,0,Grand Canyon,3
-242,Pepperdine,3,FDU,0
-243,Missouri S&T,0,McKendree,3
-244,Penn St.,2,Purdue Fort Wayne,3
-245,Kentucky St.,3,Warren Wilson,2
-246,CSUN,3,Stanford,1
-247,Queens (NC),2,Quincy,3
-248,UC Santa Barbara,3,Harvard,0
-249,Merrimack,3,Dominican (NY),0
-250,King (TN),0,Long Beach St.,3
-251,Merrimack,0,NJIT,3
-252,Daemen,3,American Int'l,0
-253,Lindenwood,1,Ohio St.,3
-254,Life (GA),0,Fort Valley St.,3
-255,Tusculum,0,Hawaii,3
-256,Fort Valley St.,3,Talladega,0
-257,Dominican (NY),0,Sacred Heart,3
-258,Loyola Chicago,3,Purdue Fort Wayne,0
-259,Emmanuel (GA),1,Erskine,3
-260,Belmont Abbey,1,North Greenville,3
-261,Maryville (MO),1,Mo. Baptist,3
-262,American Int'l,1,Rivier,3
-263,Lindenwood,3,Missouri S&T,0
-264,Ohio St.,3,Lewis,0
-265,UC Merced,1,CSUN,3
-266,Southern California,1,UC Irvine,3
-267,Stanford,1,Hawaii,3
-268,D'Youville,0,Daemen,3
-269,NJIT,0,Sacred Heart,3
-270,McKendree,3,Quincy,0
-271,Pepperdine,3,UC Santa Barbara,2
-272,LIU,0,BYU,3
-273,UC San Diego,0,CUI,3
-274,UMSV,,Dominican (NY),
-275,Barton,3,Lees-McRae,0
-276,Emmanuel (GA),0,Tusculum,3
-277,St. Thomas Aquinas,0,Daemen,3
-278,Purdue Fort Wayne,3,Queens (NC),1
-279,Mount Olive,3,King (TN),1
-280,Merrimack,0,Harvard,3
-281,Lincoln Memorial,3,Princeton,1
-282,Saint Francis (PA),3,Charleston (WV),0
-283,Ball St.,0,McKendree,3
-284,Talladega,0,Missouri S&T,3
-285,Central St. (OH),0,Maryville (MO),3
-286,Ohio St.,2,Loyola Chicago,3
-287,Master's,3,CSUN,0
-288,UCLA,1,Long Beach St.,3
-289,Stanford,0,Hawaii,3
-290,Mount Olive,3,Lees-McRae,0
-291,St. Thomas Aquinas,0,D'Youville,3
-292,Emmanuel (GA),0,Belmont Abbey,3
-293,Barton,0,King (TN),3
-294,Benedict,1,CarolinaU,3
-295,North Greenville,3,Erskine,2
-296,Purdue Fort Wayne,2,Queens (NC),3
-297,Central St. (OH),0,Missouri S&T,3
-298,Sacred Heart,3,Princeton,2
-299,FDU,1,Penn St.,3
-300,Roberts Wesleyan,1,Thomas More,3
-301,Lincoln Memorial,2,Harvard,3
-302,Roberts Wesleyan,0,Thomas More,3
-303,Talladega,0,Maryville (MO),3
-304,Saint Francis (PA),3,Charleston (WV),1
-305,UC Santa Barbara,0,Pepperdine,3
-306,Ball St.,3,Lindenwood,2
-307,Long Beach St.,1,UCLA,3
-308,LIU,0,BYU,3
-309,Talladega,0,Maryville (MO),3
-310,UC Irvine,1,Southern California,3
-311,Master's,1,CUI,3
-312,Fort Valley St.,0,Emmanuel (GA),3
-313,Benedict,0,St. Andrews,3
-314,Thomas More,3,Kentucky St.,2
-315,Missouri S&T,1,Maryville (MO),3
-316,King (TN),0,Lincoln Memorial,3
-317,St. John Fisher,3,Roberts Wesleyan,1
-318,Loyola Chicago,3,Lewis,0
-319,Hope Int'l,0,CSUN,3
-320,Pepperdine,0,UCLA,3
-321,Southern California,3,CUI,0
-322,Central St. (OH),0,UC San Diego,3
-323,Purdue Fort Wayne,0,Ball St.,3
-324,Bard,0,Dominican (NY),3
-325,Queens (NC),1,McKendree,3
-326,UC Santa Barbara,3,Cal Lutheran,1
-327,Talladega,0,Fort Valley St.,3
-328,Roberts Wesleyan,0,St. Thomas Aquinas,3
-329,George Mason,3,NJIT,1
-330,Cumberland (TN),0,Maryville (MO),3
-331,Tusculum,3,Thomas More,2
-332,Saint Francis (PA),3,LIU,2
-333,Mount Olive,1,North Greenville,3
-334,Lees-McRae,0,Erskine,3
-335,D'Youville,0,Merrimack,3
-336,Penn St.,3,Princeton,1
-337,Charleston (WV),1,Harvard,3
-338,Daemen,3,Sacred Heart,1
-339,King (TN),0,Emmanuel (GA),3
-340,Barton,1,Belmont Abbey,3
-341,Quincy,0,Ohio St.,3
-342,Queens (NC),0,McKendree,3
-343,Edward Waters,0,UC San Diego,3
-344,Lindenwood,3,Lewis,1
-345,Grand Canyon,3,BYU,0
-346,Roosevelt,0,Missouri S&T,3
-347,CUI,2,Southern California,3
-348,UC Irvine,3,Stanford,1
-349,Central St. (OH),0,Long Beach St.,3
-350,Missouri S&T,3,Cumberland (TN),0
-351,Roberts Wesleyan,1,St. Thomas Aquinas,3
-352,Charleston (WV),2,Harvard,3
-353,American Int'l,1,Emerson,3
-354,Mount Olive,0,Belmont Abbey,3
-355,Lees-McRae,1,Emmanuel (GA),3
-356,King (TN),0,Erskine,3
-357,Barton,1,North Greenville,3
-358,Quincy,0,Ohio St.,3
-359,Penn St.,3,Princeton,0
-360,UCLA,3,Pepperdine,0
-361,Roosevelt,0,Maryville (MO),3
-362,Ball St.,3,Loyola Chicago,2
-363,D'Youville,1,Sacred Heart,3
-364,George Mason,3,FDU,0
-365,Saint Francis (PA),3,LIU,2
-366,Daemen,3,Merrimack,0
-367,Grand Canyon,3,BYU,0
-368,UC Irvine,3,Stanford,1
-369,Edward Waters,0,Long Beach St.,3
-370,American Int'l,0,Eastern Nazarene,3
-371,Lincoln Memorial,3,Tusculum,0
-372,North Greenville,3,Lees-McRae,0
-373,Purdue Fort Wayne,2,Ohio St.,3
-374,Belmont Abbey,3,King (TN),2
-375,Edward Waters,0,Emmanuel (GA),3
-376,Lewis,3,Quincy,0
-377,Thomas More,3,Mt. St. Joseph,0
-378,Russell Sage,0,Dominican (NY),3
-379,Georgetown (KY),3,Central St. (OH),0
-380,Warner,0,Barton,3
-381,Missouri S&T,0,Hawaii,3
-382,Roosevelt,3,Olivet,0
-383,FDU,1,Daemen,3
-384,Maryville (MO),3,Thomas More,1
-385,Ohio St.,3,Queens (NC),0
-386,George Mason,1,Charleston (WV),3
-387,St. Thomas Aquinas,2,Dominican (NY),3
-388,Emmanuel (GA),2,Barton,3
-389,NJIT,1,Penn St.,3
-390,Erskine,0,Mount Olive,3
-391,LIU,3,D'Youville,1
-392,McKendree,1,Purdue Fort Wayne,3
-393,Princeton,3,Harvard,0
-394,Saint Francis (PA),3,Sacred Heart,1
-395,American Int'l,0,Regis (MA),3
-396,Belmont Abbey,3,Lees-McRae,1
-397,Ball St.,3,Quincy,0
-398,Loyola Chicago,1,Lindenwood,3
-399,Stanford,1,Pepperdine,3
-400,CUI,0,UC Irvine,3
-401,UCLA,2,BYU,3
-402,Southern California,1,Grand Canyon,3
-403,UC Santa Barbara,1,UC San Diego,2
-404,Lewis,1,Long Beach St.,3
-405,Life (GA),,Morehouse,
-406,Dominican (NY),3,John Jay,2
-407,Missouri S&T,0,Hawaii,3
-408,Talladega,1,Edward Waters,3
-409,LIU,0,Daemen,3
-410,George Mason,3,Charleston (WV),2
-411,Lees-McRae,0,Lincoln Memorial,3
-412,North Greenville,0,King (TN),3
-413,FDU,1,D'Youville,3
-414,Maryville (MO),3,Kentucky St.,0
-415,Emmanuel (GA),1,Mount Olive,3
-416,Erskine,3,Barton,2
-417,Roosevelt,3,Calvin,0
-418,McKendree,2,Purdue Fort Wayne,3
-419,NJIT,0,Penn St.,3
-420,Princeton,1,Harvard,3
-421,Ohio St.,3,Queens (NC),0
-422,Southern California,0,Grand Canyon,3
-423,Saint Francis (PA),3,Sacred Heart,0
-424,Loyola Chicago,3,Lindenwood,1
-425,Lewis,3,CSUN,2
-426,UCLA,3,BYU,2
-427,Stanford,3,Pepperdine,1
-428,UC Irvine,3,CUI,0
-429,CarolinaU,3,Benedict,2
-430,Merrimack,3,American Int'l,2
-431,North Greenville,1,Belmont Abbey,3
-432,Lees-McRae,1,Tusculum,3
-433,Erskine,3,Emmanuel (GA),0
-434,Brooklyn,0,Dominican (NY),3
-435,Maryville (MO),3,Fontbonne,0
-436,Charleston (WV),1,CUI,3
-437,Central St. (OH),1,Talladega,3
-438,Reinhardt,3,Emmanuel (GA),0
-439,Central St. (OH),3,Talladega,2
-440,Charleston (WV),1,UC San Diego,3
-441,Lindenwood,0,McKendree,3
-442,Pepperdine,3,CSUN,2
-443,Lewis,0,Ohio St.,3
-444,Daemen,3,D'Youville,0
-445,Purdue Fort Wayne,0,Loyola Chicago,3
-446,UCLA,3,Southern California,0
-447,UC Santa Barbara,3,CUI,2
-448,Central St. (OH),0,Fort Valley St.,3
-449,Quincy,0,McKendree,3
-450,Edward Waters,3,Benedict,0
-451,FDU,0,NJIT,3
-452,Harvard,3,Daemen,1
-453,Dominican (NY),1,Merrimack,3
-454,Lees-McRae,0,Mount Olive,3
-455,King (TN),0,Barton,3
-456,Queens (NC),0,Ball St.,3
-457,Emmanuel (GA),1,North Greenville,3
-458,Maryville (MO),3,Tusculum,0
-459,Belmont Abbey,3,Erskine,2
-460,George Mason,0,Princeton,3
-461,Lincoln Memorial,1,Lindenwood,3
-462,Stanford,0,Grand Canyon,3
-463,Charleston (WV),0,CSUN,3
-464,UC Irvine,3,UC San Diego,0
-465,Penn St.,1,Long Beach St.,3
-466,Maranatha Baptist,,Roosevelt,
-467,Kentucky St.,,Morehouse,
-468,Kentucky St.,,Morehouse,
-469,Sacred Heart,0,Hawaii,3
-470,Thomas More,3,Roberts Wesleyan,0
-471,Kentucky St.,0,Fort Valley St.,3
-472,Dominican (NY),3,American Int'l,2
-473,Harvard,3,D'Youville,1
-474,Maryville (MO),3,Tusculum,0
-475,King (TN),1,Mount Olive,3
-476,Lees-McRae,0,Barton,3
-477,Central St. (OH),3,Morehouse,1
-478,Central St. (OH),3,Morehouse,0
-479,Loyola Chicago,3,Ohio St.,2
-480,LIU,3,FDU,1
-481,Saint Francis (PA),1,George Mason,3
-482,Purdue Fort Wayne,1,Lewis,3
-483,St. Thomas Aquinas,2,Merrimack,3
-484,Southern California,1,UCLA,3
-485,Lincoln Memorial,3,Quincy,0
-486,Charleston (WV),0,UC Santa Barbara,3
-487,Pepperdine,3,CUI,2
-488,Edward Waters,0,Reinhardt,3
-489,Stanford,0,Grand Canyon,3
-490,Queens (NC),0,Ball St.,3
-491,UC San Diego,0,UC Irvine,3
-492,Sacred Heart,0,Hawaii,3
-493,Thomas More,0,D'Youville,3
-494,Saint Francis (PA),3,Edward Waters,0
-495,Thomas More,0,Daemen,3
-496,Quincy,0,Lindenwood,3
-497,St. Andrews,3,Benedict,1
-498,Maryville (MO),3,Missouri S&T,2
-499,Penn St.,3,CSUN,1
-500,Saint Francis (PA),3,Fort Valley St.,1
-501,McKendree,3,Missouri S&T,0
-502,Penn St.,1,Southern California,3
-503,St. Katherine,0,UC San Diego,3
-504,Lindenwood,3,Erskine,1
-505,Emmanuel (GA),0,Fort Valley St.,3
-506,Pepperdine,3,Belmont Abbey,0
-507,Mt. Vernon Naz.,3,North Greenville,1
-508,UC Irvine,3,Grand Canyon,2
-509,Lewis,0,Hawaii,3
-510,Campbellsville,3,Lees-McRae,1
-511,Benedict,2,Central St. (OH),3
-512,Erskine,0,McKendree,3
-513,Tusculum,0,Daemen,3
-514,Morehouse,0,Fort Valley St.,3
-515,Edward Waters,3,Kentucky St.,1
-516,Benedict,3,Central St. (OH),1
-517,Barton,0,LIU,3
-518,NJIT,1,George Mason,3
-519,Pepperdine,3,North Greenville,1
-520,Emmanuel (GA),3,Talladega,0
-521,Penn St.,2,UCLA,3
-522,Harvard,3,Merrimack,0
-523,Quincy,2,Maryville (MO),3
-524,UC Santa Barbara,1,Long Beach St.,3
-525,Ohio St.,3,Southern California,1
-526,BYU,3,Stanford,2
-527,St. Xavier,3,CUI,1
-528,Lewis,3,UC Irvine,2
-529,Grand Canyon,0,Hawaii,3
-530,Dominican (NY),0,Roberts Wesleyan,3
-531,St. Thomas Aquinas,3,American Int'l,0
-532,Benedict,2,Kentucky St.,3
-533,Lees-McRae,0,Life (GA),3
-534,Quincy,1,Missouri S&T,3
-535,Mount Olive,3,Lincoln Memorial,1
-536,Edward Waters,3,Central St. (OH),0
-537,FDU,1,George Mason,3
-538,Maryville (MO),1,McKendree,3
-539,Tusculum,1,D'Youville,3
-540,Barton,0,LIU,3
-541,Lees-McRae,0,St. Andrews,3
-542,BYU,0,Stanford,3
-543,Long Beach St.,3,UC Santa Barbara,2
-544,Mount Olive,2,Lincoln Memorial,3
-545,Grand Canyon,3,Lewis,2
-546,Ohio St.,0,UCLA,3
-547,UC Irvine,2,Hawaii,3
-548,Clarke,0,Maryville (MO),3
-549,Princeton,1,Loyola Chicago,3
-550,Edward Waters,0,Thomas More,3
-551,Tusculum,0,Saint Francis (PA),3
-552,D'Youville,3,Roberts Wesleyan,0
-553,Harvard,1,UC San Diego,3
-554,Barton,2,Queens (NC),3
-555,Thomas More,3,Central St. (OH),1
-556,Harvard,3,CUI,2
-557,UC Santa Barbara,0,UC Irvine,3
-558,Ball St.,3,Ohio St.,1
-559,Kentucky St.,1,Roberts Wesleyan,3
-560,Quincy,1,Loyola Chicago,3
-561,McKendree,3,Lewis,2
-562,Southern California,1,Pepperdine,3
-563,CSUN,1,UC San Diego,3
-564,North Greenville,3,Charleston (WV),1
-565,Princeton,3,FDU,2
-566,Reinhardt,3,Edward Waters,2
-567,Lincoln Memorial,3,Thomas More,1
-568,Tusculum,1,Belmont Abbey,3
-569,Warner,0,King (TN),3
-570,Merrimack,0,Sacred Heart,3
-571,Lindenwood,0,Purdue Fort Wayne,3
-572,Mount Olive,0,George Mason,3
-573,Kentucky St.,0,Dominican (NY),3
-574,St. Thomas Aquinas,0,LIU,3
-575,UC San Diego,3,CSUN,2
-576,NJIT,1,Grand Canyon,3
-577,UC Irvine,3,UC Santa Barbara,0
-578,Hawaii,0,Long Beach St.,3
-579,Sacred Heart,1,Merrimack,3
-580,Lindenwood,0,Ball St.,3
-581,Lincoln Memorial,3,D'Youville,0
-582,Fort Valley St.,2,Tusculum,3
-583,Fort Valley St.,0,Queens (NC),3
-584,Kentucky St.,0,St. Thomas Aquinas,3
-585,D'Youville,3,Central St. (OH),0
-586,Roberts Wesleyan,0,American Int'l,3
-587,Charleston (WV),3,Belmont Abbey,2
-588,Talladega,0,King (TN),3
-589,Lincoln Memorial,3,Central St. (OH),0
-590,Tusculum,0,Queens (NC),3
-591,Penn St.,3,Saint Francis (PA),2
-592,Edward Waters,0,Life (GA),3
-593,Quincy,0,Lewis,3
-594,Mount Olive,1,George Mason,3
-595,FDU,0,LIU,3
-596,Edward Waters,2,St. Andrews,3
-597,McKendree,0,Loyola Chicago,3
-598,NJIT,1,Grand Canyon,3
-599,Ohio St.,0,Purdue Fort Wayne,3
-600,CUI,0,Pepperdine,3
-601,Hawaii,2,Long Beach St.,3
-602,Saint Francis (PA),2,Penn St.,3
-603,Lincoln Memorial,3,King (TN),0
-604,Tusculum,3,Lees-McRae,0
-605,Talladega,0,Emmanuel (GA),3
-606,Fontbonne,0,Maryville (MO),3
-607,McKendree,0,Lindenwood,3
-608,Lewis,3,Queens (NC),1
-609,Ohio St.,3,Ball St.,0
-610,Loyola Chicago,3,Quincy,0
-611,Grand Canyon,3,CUI,0
-612,Sacred Heart,2,FDU,3
-613,Dominican (NY),0,Wentworth,3
-614,Benedict,0,Fort Valley St.,3
-615,Emmanuel (GA),3,Lees-McRae,2
-616,Erskine,3,King (TN),0
-617,Belmont Abbey,3,Mount Olive,0
-618,Tusculum,0,George Mason,3
-619,North Greenville,2,Barton,3
-620,Daemen,1,Saint Francis (PA),3
-621,Merrimack,1,LIU,3
-622,Thomas More,0,Missouri S&T,3
-623,BYU,3,Pepperdine,2
-624,Grand Canyon,3,CUI,0
-625,Edward Waters,,Morehouse,
-626,Edward Waters,,Morehouse,
-627,CSUN,1,Hawaii,3
-628,St. Thomas Aquinas,3,Roberts Wesleyan,1
-629,Georgetown (KY),2,Charleston (WV),3
-630,Edward Waters,0,Fort Valley St.,3
-631,Erskine,3,Lees-McRae,0
-632,Emmanuel (GA),0,King (TN),3
-633,North Greenville,3,Mount Olive,2
-634,Belmont Abbey,3,Barton,0
-635,Lewis,3,Queens (NC),0
-636,Lindenwood,3,Quincy,2
-637,Daemen,1,Saint Francis (PA),3
-638,Thomas More,3,Maryville (MO),2
-639,Dominican (NY),1,Harvard,3
-640,Tusculum,0,George Mason,3
-641,Sacred Heart,0,LIU,3
-642,Loyola Chicago,0,McKendree,3
-643,Princeton,3,NJIT,1
-644,Benedict,3,Morehouse,1
-645,Merrimack,0,FDU,3
-646,Ball St.,3,Purdue Fort Wayne,2
-647,BYU,3,Pepperdine,2
-648,CSUN,3,Hawaii,1
-649,Missouri S&T,0,Lincoln Memorial,3
-650,Missouri S&T,0,Lincoln Memorial,3
-651,Sacred Heart,3,American Int'l,0
-652,Va. Wesleyan,0,Barton,3
-653,Central St. (OH),3,Kentucky St.,0
-654,Tusculum,1,North Greenville,3
-655,Maryville (MO),3,Quincy,1
-656,Fort Valley St.,3,Morehouse,0
-657,Lees-McRae,0,King (TN),3
-658,Belmont Abbey,3,Emmanuel (GA),2
-659,Erskine,0,North Greenville,3
-660,Mount Olive,3,Barton,0
-661,Edward Waters,2,Warner,3
-662,Dominican (NY),0,St. Thomas Aquinas,3
-663,Tusculum,0,Emmanuel (GA),3
-664,Merrimack,0,Saint Francis (PA),3
-665,Queens (NC),0,Loyola Chicago,3
-666,Ball St.,3,Lewis,2
-667,Ohio St.,3,McKendree,2
-668,Kentucky St.,0,Webber Int'l,3
-669,D'Youville,2,FDU,3
-670,Thomas More,3,Tusculum,2
-671,Charleston (WV),3,NJIT,2
-672,Central St. (OH),0,Edward Waters,3
-673,Merrimack,0,Saint Francis (PA),3
-674,Sacred Heart,1,George Mason,3
-675,Harvard,0,Penn St.,3
-676,Daemen,1,LIU,3
-677,Purdue Fort Wayne,0,Lindenwood,3
-678,UC Irvine,1,CSUN,3
-679,CUI,0,BYU,3
-680,Stanford,1,UCLA,3
-681,UC San Diego,0,Long Beach St.,3
-682,UC Santa Barbara,0,Hawaii,3
-683,American Int'l,1,Roberts Wesleyan,3
-684,Thomas More,3,Lees-McRae,2
-685,Daemen,3,FDU,0
-686,Kentucky St.,0,Edward Waters,3
-687,Charleston (WV),0,NJIT,3
-688,D'Youville,1,LIU,3
-689,Sacred Heart,3,Misericordia,0
-690,Queens (NC),0,Loyola Chicago,3
-691,Harvard,1,Penn St.,3
-692,Sacred Heart,3,Stevenson,1
-693,Princeton,2,George Mason,3
-694,Ball St.,2,Lewis,3
-695,Purdue Fort Wayne,3,Quincy,0
-696,Central St. (OH),0,Webber Int'l,3
-697,Ohio St.,1,Lindenwood,3
-698,Stanford,0,UCLA,3
-699,CUI,0,BYU,3
-700,CSUN,0,UC Irvine,3
-701,Long Beach St.,3,UC San Diego,0
-702,Pepperdine,3,Southern California,1
-703,CarolinaU,,Morehouse,
-704,Life (GA),,Morehouse,
-705,UC Santa Barbara,2,Hawaii,3
-706,Central St. (OH),3,Warner,1
-707,Reinhardt,3,Fort Valley St.,1
-708,Lees-McRae,0,Belmont Abbey,3
-709,King (TN),0,North Greenville,3
-710,Lindenwood,3,Queens (NC),0
-711,Daemen,3,Roberts Wesleyan,0
-712,McKendree,2,Ohio St.,3
-713,Midway,0,Thomas More,3
-714,Lewis,2,Purdue Fort Wayne,3
-715,Maryville (MO),3,Central St. (OH),2
-716,Quincy,0,Ball St.,3
-717,LIU,3,Sacred Heart,0
-718,Edward Waters,2,Webber Int'l,3
-719,Master's,3,Pepperdine,2
-720,Saint Francis (PA),3,D'Youville,1
-721,Fort Valley St.,3,Kentucky St.,0
-722,American Int'l,0,Dominican (NY),3
-723,Harvard,0,George Mason,3
-724,Barton,0,Erskine,3
-725,FDU,3,Merrimack,1
-726,Penn St.,3,Charleston (WV),1
-727,NJIT,0,Princeton,3
-728,Mount Olive,3,Emmanuel (GA),1
-729,Maryville (MO),0,Ohio St.,3
-730,UC San Diego,2,UC Santa Barbara,3
-731,Hawaii,0,UC Irvine,3
-732,Grand Canyon,0,UCLA,3
-733,CSUN,0,Long Beach St.,3
-734,BYU,3,Southern California,1
-735,Stanford,3,CUI,2
-736,Lindenwood,3,Queens (NC),1
-737,Tusculum,0,Lincoln Memorial,3
-738,Barton,3,Emmanuel (GA),2
-739,American Int'l,0,MIT,3
-740,Fort Valley St.,3,Central St. (OH),0
-741,Mount Olive,0,Erskine,3
-742,Lees-McRae,0,North Greenville,3
-743,Benedict,0,Edward Waters,3
-744,King (TN),0,Belmont Abbey,3
-745,Penn St.,3,Charleston (WV),0
-746,Saint Francis (PA),3,D'Youville,1
-747,Harvard,0,George Mason,3
-748,Roberts Wesleyan,0,Daemen,3
-749,LIU,1,Merrimack,3
-750,Quincy,0,Purdue Fort Wayne,3
-751,FDU,3,Sacred Heart,1
-752,McKendree,2,Ball St.,3
-753,Lewis,0,Loyola Chicago,3
-754,Grand Canyon,2,UCLA,3
-755,Long Beach St.,3,CSUN,0
-756,Hawaii,3,UC Irvine,1
-757,BYU,2,Southern California,3
-758,Stanford,3,CUI,1
-759,Warner,0,Edward Waters,3
-760,Springfield,3,Sacred Heart,2
-761,Belmont Abbey,3,Queens (NC),1
-762,King (TN),0,Tusculum,3
-763,Truett-McConnell,2,Benedict,3
-764,King (TN),0,Lees-McRae,3
-765,Erskine,1,Belmont Abbey,3
-766,North Greenville,3,Emmanuel (GA),2
-767,Barton,0,Mount Olive,3
-768,Pepperdine,0,Grand Canyon,3
-769,UCLA,3,CUI,0
-770,Maryville (MO),2,Thomas More,3
-771,Merrimack,1,Daemen,3
-772,Morehouse,3,Benedict,2
-773,FDU,0,Saint Francis (PA),3
-774,Fort Valley St.,3,Edward Waters,1
-775,Tusculum,0,Lincoln Memorial,3
-776,NJIT,3,Harvard,2
-777,Charleston (WV),3,Princeton,2
-778,Sacred Heart,3,D'Youville,0
-779,Kentucky St.,1,Central St. (OH),3
-780,George Mason,2,Penn St.,3
-781,Pepperdine,0,Grand Canyon,3
-782,CSUN,1,UC Santa Barbara,3
-783,Long Beach St.,0,UC Irvine,3
-784,Hawaii,3,UC San Diego,1
-785,Southern California,0,Stanford,3
-786,Roberts Wesleyan,3,Dominican (NY),2
-787,Maryville (MO),1,Tusculum,3
-788,Charleston (WV),2,Princeton,3
-789,Lincoln Memorial,3,Thomas More,0
-790,George Mason,1,Penn St.,3
-791,Sacred Heart,1,Daemen,3
-792,Merrimack,3,D'Youville,1
-793,FDU,0,Saint Francis (PA),3
-794,Lewis,1,Ohio St.,3
-795,NJIT,3,Harvard,1
-796,Queens (NC),0,Ball St.,3
-797,Purdue Fort Wayne,0,Lindenwood,3
-798,McKendree,0,Loyola Chicago,3
-799,UC Santa Barbara,1,CSUN,3
-800,Southern California,1,Stanford,3
-801,Hawaii,0,UC San Diego,3
-802,UC Irvine,0,Long Beach St.,3
-803,CUI,0,UCLA,3
-804,American Int'l,0,St. Thomas Aquinas,3
-805,Fort Valley St.,3,Benedict,0
-806,Barton,2,Mount Olive,3
-807,King (TN),3,Erskine,1
-808,Sacred Heart,3,LIU,1
-809,Charleston (WV),3,Princeton,0
-810,CUI,0,Grand Canyon,3
-811,Merrimack,1,FDU,3
-812,Harvard,3,NJIT,0
-813,Southern California,3,BYU,2
-814,Stanford,3,Pepperdine,0
-815,Benedict,0,Kentucky St.,3
-816,Morehouse,0,Central St. (OH),3
-817,Ohio St.,3,Loyola Chicago,1
-818,FDU,0,Daemen,3
-819,Kentucky St.,0,Fort Valley St.,3
-820,Charleston (WV),0,George Mason,3
-821,Central St. (OH),3,Edward Waters,1
-822,Lindenwood,3,Ball St.,2
-823,Sacred Heart,0,Saint Francis (PA),3
-824,Harvard,1,Penn St.,3
-825,Southern California,0,UCLA,3
-826,Stanford,1,Grand Canyon,3
-827,CSUN,3,UC San Diego,0
-828,UC Santa Barbara,1,Hawaii,3
-829,Central St. (OH),0,Fort Valley St.,3
-830,Mount Olive,0,Belmont Abbey,3
-831,King (TN),1,North Greenville,3
-832,CSUN,1,Long Beach St.,3
-833,Hawaii,0,UC Irvine,3
-834,American Int'l,1,St. Thomas Aquinas,3
-835,Roberts Wesleyan,0,Dominican (NY),3
-836,Daemen,3,Saint Francis (PA),1
-837,North Greenville,1,Belmont Abbey,3
-838,Lindenwood,1,Ohio St.,3
-839,George Mason,1,Penn St.,3
-840,Grand Canyon,3,UCLA,2
-841,UC Irvine,1,Long Beach St.,3
-842,St. Thomas Aquinas,3,Dominican (NY),2
-843,Fort Valley St.,0,UCLA,3
-844,Penn St.,0,UC Irvine,3
-845,Belmont Abbey,0,Long Beach St.,3
-846,Ohio St.,0,Grand Canyon,3
+0,Brandon (CAN),2,CUI,3
+1,BYU,3,Ohio St.,1
+2,Wabash,0,Ball St.,3
+3,McKendree,1,Hawaii,3
+4,BYU,3,Ohio St.,1
+5,UC Santa Cruz,1,Menlo,3
+6,Trine,0,Ball St.,3
+7,McKendree,0,Hawaii,3
+8,Catawba,0,Charleston (WV),3
+9,McKendree,0,UC San Diego,3
+10,Roberts Wesleyan,3,Central St. (OH),0
+11,Catawba,3,King (TN),1
+12,Saint Francis,0,UC San Diego,3
+13,Merrimack,1,CUI,3
+14,Harvard,0,Hawaii,3
+15,Roberts Wesleyan,3,Thomas More,1
+16,Missouri S&T,0,UC Santa Barbara,3
+17,Lincoln Memorial,3,North Greenville,1
+18,Erskine,2,Barry,3
+19,Tusculum,0,CSUN,3
+20,Daemen,1,Southern California,3
+21,Merrimack,0,Vanguard,3
+22,Menlo,0,UC Irvine,3
+23,Lincoln Memorial,3,Belmont Abbey,1
+24,Tusculum,0,UC Irvine,3
+25,Fort Valley St.,0,Ohio St.,3
+26,Grand Canyon,3,NJIT,1
+27,Saint Francis,0,UCLA,3
+28,Rockhurst,0,Lindenwood,3
+29,Barton,0,Barry,3
+30,Central St. (OH),1,Purdue Fort Wayne,3
+31,Maryville (MO),0,Lewis,3
+32,Menlo,1,UC Santa Barbara,3
+33,Penn St.,1,Loyola Chicago,3
+34,Ball St.,3,Stanford,0
+35,St. Thomas Aquinas,0,BYU,3
+36,Daemen,0,UC San Diego,3
+37,Missouri S&T,0,CSUN,3
+38,Saint Francis,0,Long Beach St.,3
+39,Edward Waters,,Emmanuel (GA),
+40,Harvard,2,Hawaii,3
+41,Fort Valley St.,0,Ohio St.,3
+42,Barton,0,Barry,3
+43,Menlo,1,CSUN,3
+44,Charleston (WV),1,Queens (NC),3
+45,Erskine,3,Edward Waters,0
+46,Grand Canyon,3,NJIT,1
+47,Missouri S&T,0,UC Irvine,3
+48,Maryville (MO),1,Loyola Chicago,3
+49,Penn St.,0,Lewis,3
+50,Rockhurst,2,McKendree,3
+51,Ball St.,0,Stanford,3
+52,St. Thomas Aquinas,0,BYU,3
+53,Tusculum,0,UC Santa Barbara,3
+54,Princeton,0,Southern California,3
+55,Daemen,3,CUI,1
+56,Charleston (WV),2,Queens (NC),3
+57,Missouri S&T,0,Pepperdine,3
+58,Central St. (OH),0,Thomas More,3
+59,Roosevelt,0,Lewis,3
+60,George Mason,0,UC San Diego,3
+61,Barry,1,FDU,3
+62,Belmont Abbey,3,Catawba,1
+63,Long Beach St.,3,Lindenwood,0
+64,SUNY New Paltz,0,Menlo,3
+65,Princeton,1,Hawaii,3
+66,Roberts Wesleyan,1,LIU,3
+67,Quincy,3,Roosevelt,1
+68,BYU,3,Ball St.,2
+69,Queens (NC),3,Belmont Abbey,0
+70,Barry,0,Dominican (NY),3
+71,Thomas More,3,Mt. St. Joseph,1
+72,Long Beach St.,3,McKendree,0
+73,Barry,1,St. Thomas Aquinas,3
+74,Roberts Wesleyan,0,NJIT,3
+75,Penn St.,0,UCLA,3
+76,P.R.-Rio Piedras,1,Juniata,3
+77,Sacred Heart,3,FDU,2
+78,Mount Olive,3,Fort Valley St.,0
+79,Tusculum,3,Erskine,0
+80,BYU,3,Ball St.,2
+81,Lindenwood,1,UC San Diego,3
+82,Barry,0,LIU,3
+83,Lincoln Memorial,3,Charleston (WV),0
+84,Russell Sage,1,American Int'l,3
+85,Lees-McRae,0,Catawba,3
+86,George Mason,0,Grand Canyon,3
+87,Saint Francis,0,Loyola Chicago,3
+88,Rockhurst,0,Lewis,3
+89,Ohio St.,0,Stanford,3
+90,Purdue Fort Wayne,0,CSUN,3
+91,Emmanuel (GA),0,UC Santa Barbara,3
+92,D'Youville,0,Southern California,3
+93,Springfield,0,CUI,3
+94,Kentucky St.,,Missouri S&T,
+95,Princeton,0,Hawaii,3
+96,P.R.-Rio Piedras,3,Saint Vincent,0
+97,American Int'l,0,MIT,3
+98,Mount Olive,3,Fort Valley St.,1
+99,Lincoln Memorial,3,Charleston (WV),1
+100,Rockhurst,1,Saint Francis,3
+101,American Int'l,0,Emmanuel (MA),3
+102,P.R.-Rio Piedras,,Grove City,
+103,St. Thomas Aquinas,0,Harvard,3
+104,Penn St.,1,Stanford,3
+105,George Mason,1,Grand Canyon,3
+106,Purdue Fort Wayne,0,UC San Diego,3
+107,Ohio St.,3,UCLA,1
+108,Rockhurst,1,Loyola Chicago,3
+109,Long Beach St.,3,Lewis,1
+110,Lindenwood,1,CSUN,3
+111,Emmanuel (GA),0,Southern California,3
+112,D'Youville,0,CUI,3
+113,Kentucky St.,,Maryville (MO),
+114,Tusculum,1,Queens (NC),3
+115,Tusculum,1,Barton,3
+116,Barton,1,Queens (NC),3
+117,D'Youville,0,Pepperdine,3
+118,Jessup,3,Pacific Union,1
+119,Quincy,3,Lees-McRae,0
+120,Emmanuel (GA),0,Pepperdine,3
+121,Quincy,1,Tusculum,3
+122,Catawba,1,North Greenville,3
+123,American Int'l,0,Sacred Heart,3
+124,Merrimack,0,Harvard,3
+125,LIU,3,Lees-McRae,1
+126,Southern California,3,CSUN,1
+127,BYU,2,UC Irvine,3
+128,Quincy,3,King (TN),0
+129,Queens (NC),1,George Mason,2
+130,LIU,2,Purdue Fort Wayne,3
+131,Lees-McRae,0,Ball St.,3
+132,Benedict,0,Catawba,3
+133,UC San Diego,1,UCLA,3
+134,Barry,1,Emmanuel (GA),3
+135,Barry,2,Fort Valley St.,3
+136,Edward Waters,1,St. Thomas Aquinas,3
+137,Marymount (VA),,Barton,0
+138,Queens (NC),2,NJIT,3
+139,Roberts Wesleyan,1,FDU,3
+140,King (TN),0,George Mason,3
+141,Fort Valley St.,3,Emmanuel (GA),0
+142,Saint Francis,2,Princeton,3
+143,Dominican (NY),0,Daemen,3
+144,Concordia Wisconsin,3,American Int'l,1
+145,Maryville (MO),0,Ball St.,3
+146,UC Santa Barbara,3,Grand Canyon,0
+147,Missouri S&T,0,Loyola Chicago,3
+148,Mount Olive,2,Lewis,3
+149,Kan. Wesleyan,1,Rockhurst,3
+150,BYU,0,UC Irvine,3
+151,UCLA,3,CSUN,1
+152,Vanguard,0,UC San Diego,3
+153,CUI,0,Long Beach St.,3
+154,Kentucky St.,0,St. Mary-Woods,3
+155,Kentucky St.,0,Truett-McConnell,3
+156,Hood,0,Barton,3
+157,Barry,0,Erskine,3
+158,Edward Waters,0,St. Thomas Aquinas,3
+159,Graceland (IA),1,Rockhurst,3
+160,Roberts Wesleyan,0,FDU,3
+161,St. Norbert,2,Barton,3
+162,Kentucky St.,1,Franklin,3
+163,Dominican (NY),0,D'Youville,3
+164,Quincy,1,Lincoln Memorial,3
+165,Ottawa (KS),0,Rockhurst,3
+166,King (TN),0,George Mason,3
+167,Mount Olive,0,Loyola Chicago,3
+168,Lees-McRae,0,Purdue Fort Wayne,3
+169,Saint Francis,0,NJIT,3
+170,Merrimack,3,American Int'l,0
+171,Missouri S&T,0,Lewis,3
+172,Charleston (WV),0,McKendree,3
+173,UC Santa Barbara,2,Grand Canyon,3
+174,Jessup,0,Menlo,3
+175,Governors St.,3,Kentucky St.,0
+176,Queens (NC),0,Princeton,3
+177,Charleston (WV),0,Lindenwood,3
+178,Edward Waters,0,LIU,2
+179,Long Beach St.,3,Pepperdine,2
+180,Brescia,0,Maryville (MO),3
+181,Warner,3,Edward Waters,2
+182,Tusculum,3,North Greenville,1
+183,Catawba,3,Barton,2
+184,Central St. (OH),3,Southern California,0
+185,Erskine,3,Warren Wilson,0
+186,CUI,0,UC Santa Barbara,3
+187,Geneva,0,Roberts Wesleyan,3
+188,Catawba,1,Queens (NC),3
+189,Simpson (CA),0,Menlo,3
+190,Indiana Tech,3,Thomas More,0
+191,Tusculum,0,Ball St.,3
+192,Edward Waters,1,Barton,3
+193,Houghton,0,Roberts Wesleyan,3
+194,Emerson,2,American Int'l,3
+195,Loyola Chicago,3,Pepperdine,2
+196,UC Merced,0,Vanguard,3
+197,Missouri S&T,3,Quincy,1
+198,UCLA,3,Penn St.,0
+199,Saint Francis,0,Purdue Fort Wayne,3
+200,Rockhurst,3,Emmanuel (GA),0
+201,NJIT,3,LIU,0
+202,St. Thomas Aquinas,0,George Mason,3
+203,Lees-McRae,0,Queens (NC),3
+204,Talladega,3,Morehouse,0
+205,Fort Valley St.,0,Long Beach St.,3
+206,Roosevelt,0,Quincy,3
+207,Southern California,3,Ohio St.,1
+208,Lincoln Memorial,3,Harvard,2
+209,Dominican (NY),0,Sacred Heart,3
+210,King (TN),0,Charleston (WV),3
+211,FDU,0,Princeton,3
+212,Edward Waters,1,Mount Olive,3
+213,Wabash,3,Central St. (OH),0
+214,Tusculum,0,Ball St.,3
+215,Lewis,3,UC Santa Barbara,1
+216,Maryville (MO),0,McKendree,3
+217,Jessup,3,Simpson (CA),1
+218,UC Irvine,3,Stanford,0
+219,Hawaii,3,BYU,2
+220,Grand Canyon,3,Belmont Abbey,0
+221,Master's,3,CUI,1
+222,Rockhurst,3,Quincy,1
+223,FDU,3,American Int'l,1
+224,King (TN),0,Charleston (WV),3
+225,Benedict,3,Milligan,0
+226,Belmont Abbey,3,Fort Valley St.,1
+227,Loyola Chicago,3,UC San Diego,2
+228,St. Thomas Aquinas,0,CSUN,3
+229,Missouri S&T,3,Emmanuel (GA),0
+230,Benedict,1,Truett-McConnell,3
+231,Rockhurst,3,Roosevelt,0
+232,Saint Francis,2,Lincoln Memorial,3
+233,Southern California,3,Penn St.,1
+234,Lewis,0,Pepperdine,3
+235,Grand Canyon,3,Fort Valley St.,0
+236,Emmanuel (GA),0,Quincy,3
+237,Long Beach St.,3,Belmont Abbey,0
+238,UCLA,3,Ohio St.,1
+239,Purdue Fort Wayne,3,Harvard,0
+240,Merrimack,3,Sacred Heart,1
+241,Dominican (NY),0,NJIT,3
+242,Maryville (MO),1,Lindenwood,3
+243,Roosevelt,0,Missouri S&T,3
+244,UC Irvine,3,Stanford,0
+245,Hawaii,3,BYU,1
+246,CSUN,3,George Mason,1
+247,Quincy,3,Queens (NC),1
+248,Warren Wilson,0,Erskine,3
+249,Tusculum,3,Lees-McRae,0
+250,Mount Olive,3,Catawba,0
+251,Roberts Wesleyan,3,Buffalo St.,1
+252,Central St. (OH),3,Mt. St. Joseph,0
+253,Mo. Baptist,2,Maryville (MO),3
+254,Lincoln Memorial,0,UC San Diego,3
+255,Quincy,0,Queens (NC),3
+256,Roberts Wesleyan,1,Daemen,3
+257,Lindenwood,1,Lewis,3
+258,Lincoln Memorial,3,CUI,1
+259,Stanford,2,Hawaii,3
+260,Park (MO),3,Missouri S&T,0
+261,Barry,3,Warner,0
+262,Purdue Fort Wayne,2,Ball St.,3
+263,McKendree,0,Loyola Chicago,3
+264,UC Merced,3,Jessup,0
+265,Master's,3,Vanguard,1
+266,Rockhurst,2,Roberts Wesleyan,3
+267,Menlo,1,Jessup,3
+268,George Mason,2,NJIT,3
+269,Emmanuel (GA),0,Catawba,3
+270,Penn St.,0,Harvard,3
+271,American Int'l,0,Merrimack,3
+272,LIU,3,Princeton,1
+273,King (TN),0,Mount Olive,3
+274,Lees-McRae,0,Barton,3
+275,Central St. (OH),1,Maryville (MO),3
+276,Dominican (NY),0,CSUN,3
+277,UC Santa Barbara,0,BYU,3
+278,UCLA,1,Long Beach St.,3
+279,UC San Diego,3,Vanguard,2
+280,Morehouse,0,Life (GA),3
+281,Stanford,3,Hawaii,1
+282,LIU,3,St. Thomas Aquinas,1
+283,Rockhurst,1,Daemen,3
+284,Edward Waters,1,Barry,3
+285,Emmanuel (GA),0,Belmont Abbey,3
+286,Lees-McRae,0,Mount Olive,3
+287,King (TN),0,Barton,3
+288,North Greenville,3,Erskine,0
+289,Rockhurst,3,D'Youville,1
+290,Dominican (NY),0,Southern California,3
+291,Edward Waters,1,Webber Int'l,3
+292,Central St. (OH),0,Missouri S&T,3
+293,George Mason,3,FDU,1
+294,Penn St.,3,Harvard,0
+295,Webber Int'l,3,Barry,0
+296,Loyola Chicago,3,Ohio St.,1
+297,Charleston (WV),3,Sacred Heart,0
+298,CSUN,3,Pepperdine,1
+299,McKendree,3,Lewis,1
+300,UC Santa Barbara,0,BYU,3
+301,UC Irvine,3,CUI,1
+302,Charleston (WV),3,Sacred Heart,1
+303,Benedict,3,Warren Wilson,0
+304,Dominican (NY),0,Pepperdine,3
+305,Ohio St.,3,Purdue Fort Wayne,0
+306,Warren Wilson,0,Benedict,3
+307,Georgetown (KY),3,Thomas More,2
+308,North Greenville,3,Lees-McRae,2
+309,Kentucky St.,,Franklin,
+310,Emmanuel (GA),0,Fort Valley St.,3
+311,Tusculum,0,Lincoln Memorial,3
+312,King (TN),0,Belmont Abbey,3
+313,McKendree,3,Lindenwood,2
+314,Southern California,2,UC Irvine,3
+315,Jessup,3,UC Merced,1
+316,Long Beach St.,3,UCLA,0
+317,Trinity Christian,,Roosevelt,
+318,Catawba,0,Fort Valley St.,3
+319,Lees-McRae,0,Lincoln Memorial,3
+320,LIU,3,Dominican (NY),2
+321,Queens (NC),3,Purdue Fort Wayne,1
+322,Lewis,1,Ball St.,3
+323,BYU,3,CUI,1
+324,Wentworth,3,Dominican (NY),0
+325,D'Youville,0,St. Thomas Aquinas,3
+326,Dominican (NY),0,LIU,3
+327,Sacred Heart,0,George Mason,3
+328,Princeton,3,NJIT,1
+329,Catawba,3,Erskine,0
+330,Cumberland (TN),3,King (TN),0
+331,Roosevelt,1,Wis.-Stevens Point,3
+332,Queens (NC),1,Purdue Fort Wayne,3
+333,Lewis,3,Ball St.,2
+334,Mount Olive,3,Belmont Abbey,0
+335,Loyola Chicago,3,Quincy,0
+336,Barton,3,North Greenville,0
+337,Penn St.,3,Saint Francis,0
+338,UC San Diego,1,Grand Canyon,3
+339,Maryville (MO),3,Rockhurst,0
+340,Roosevelt,1,Concordia Chicago,3
+341,Jessup,1,CSUN,3
+342,Master's,3,Menlo,1
+343,BYU,3,CUI,2
+344,Pepperdine,3,UC Santa Barbara,0
+345,UC Irvine,3,Southern California,0
+346,Vanguard,0,Long Beach St.,3
+347,Daemen,0,St. Thomas Aquinas,3
+348,Lindenwood,1,Ohio St.,3
+349,Barton,0,Belmont Abbey,3
+350,Lees-McRae,3,King (TN),2
+351,Mount Olive,3,North Greenville,0
+352,Maryville (MO),3,Rockhurst,1
+353,Hope Int'l,1,Menlo,3
+354,Saint Francis,0,Penn St.,3
+355,American Int'l,0,FDU,3
+356,Sacred Heart,1,George Mason,3
+357,Erskine,0,Tusculum,3
+358,Loyola Chicago,2,McKendree,3
+359,Master's,3,Stanford,2
+360,UC San Diego,2,Grand Canyon,3
+361,UC Santa Barbara,0,Pepperdine,3
+362,Harvard,,Charleston (WV),
+363,Daemen,3,Dominican (NY),0
+364,Bluefield Univ.,1,Tusculum,3
+365,Roberts Wesleyan,0,George Mason,3
+366,Belmont Abbey,3,Erskine,0
+367,St. Thomas Aquinas,3,LIU,2
+368,Catawba,0,Mount Olive,3
+369,North Greenville,3,Emmanuel (GA),1
+370,Mt. St. Joseph,0,Thomas More,3
+371,St. Xavier,3,Roosevelt,1
+372,Roberts Wesleyan,0,Marymount (VA),3
+373,Grand Canyon,1,CSUN,3
+374,UCLA,3,UC Irvine,0
+375,Central St. (OH),2,D'Youville,3
+376,Hawaii,3,Belmont Abbey,0
+377,Ball St.,3,Lindenwood,0
+378,Purdue Fort Wayne,0,Loyola Chicago,3
+379,Ohio St.,1,McKendree,3
+380,UC Santa Barbara,3,CUI,1
+381,Simpson (CA),0,Vanguard,3
+382,Fort Valley St.,0,Lincoln Memorial,3
+383,Hawaii,3,Queens (NC),0
+384,Penn St.,0,NJIT,3
+385,Dominican (NY),3,Saint Francis,2
+386,Central St. (OH),0,Daemen,3
+387,Erskine,3,Lees-McRae,1
+388,Princeton,1,Charleston (WV),3
+389,Emmanuel (GA),1,King (TN),3
+390,Quincy,2,Lewis,3
+391,Culver-Stockton,2,Roosevelt,3
+392,Barry,1,BYU,3
+393,FDU,0,Pepperdine,3
+394,Grand Canyon,0,Long Beach St.,3
+395,Stanford,3,Vanguard,1
+396,American Int'l,,D'Youville,
+397,Hawaii,3,Catawba,1
+398,Roberts Wesleyan,0,St. Thomas Aquinas,3
+399,American Int'l,0,Daemen,3
+400,Emmanuel (GA),2,Lees-McRae,3
+401,Princeton,3,Charleston (WV),1
+402,Ohio St.,3,Lindenwood,1
+403,Erskine,3,King (TN),0
+404,Belmont Abbey,3,North Greenville,0
+405,Missouri S&T,3,LeMoyne-Owen,0
+406,Dominican (NY),1,Saint Francis,3
+407,Stanford,3,Vanguard,0
+408,Hawaii,3,Queens (NC),1
+409,Ball St.,2,McKendree,3
+410,Quincy,1,Loyola Chicago,3
+411,Sacred Heart,0,Harvard,3
+412,Wentworth,0,Merrimack,3
+413,Penn St.,3,NJIT,1
+414,UC Irvine,2,UCLA,3
+415,Purdue Fort Wayne,2,Lewis,3
+416,Barry,0,BYU,3
+417,UC San Diego,3,CUI,0
+418,Barton,0,Long Beach St.,3
+419,Benedict,0,Fort Valley St.,3
+420,Sacred Heart,0,Harvard,3
+421,Barton,0,Long Beach St.,3
+422,D'Youville,3,Roberts Wesleyan,2
+423,King (TN),3,North Greenville,2
+424,Belmont Abbey,3,Lees-McRae,0
+425,Erskine,3,Emmanuel (GA),0
+426,Cal Lutheran,0,UC Santa Barbara,3
+427,Dominican (NY),3,American Int'l,0
+428,LeMoyne-Owen,3,Kentucky St.,2
+429,Harvard,1,Merrimack,3
+430,Maryville (MO),3,Missouri S&T,0
+431,UC Santa Barbara,1,UCLA,3
+432,Southern California,3,Vanguard,0
+433,Jessup,3,Soka,0
+434,Cumberland (TN),0,Tusculum,3
+435,Daemen,3,Roberts Wesleyan,1
+436,Fort Valley St.,3,Benedict,0
+437,Ohio St.,2,Ball St.,3
+438,North Greenville,1,Catawba,3
+439,Lewis,3,Loyola Chicago,1
+440,Grand Canyon,1,Pepperdine,3
+441,CUI,0,Master's,3
+442,FDU,0,St. Thomas Aquinas,3
+443,LIU,3,Charleston (WV),0
+444,Warner,0,Barry,3
+445,McKendree,3,Queens (NC),0
+446,Morehouse,0,Central St. (OH),3
+447,Mount Olive,3,Erskine,0
+448,Rockhurst,3,Maryville (MO),2
+449,Lindenwood,3,Purdue Fort Wayne,1
+450,NJIT,1,Princeton,3
+451,Barton,3,Emmanuel (GA),0
+452,Merrimack,1,Penn St.,3
+453,George Mason,0,Saint Francis,3
+454,Grand Canyon,1,Pepperdine,3
+455,UC Merced,0,Stanford,3
+456,UC San Diego,3,Menlo,0
+457,Cal Lutheran,0,CSUN,3
+458,UCLA,3,UC Santa Barbara,1
+459,Vanguard,0,Southern California,3
+460,UC Irvine,0,Hawaii,3
+461,Ottawa (AZ),1,Jessup,3
+462,Morehouse,0,Central St. (OH),3
+463,American Int'l,0,St. Thomas Aquinas,3
+464,Dominican (NY),3,Roberts Wesleyan,1
+465,Dominican (NY),3,Roberts Wesleyan,2
+466,Mount Olive,3,Emmanuel (GA),0
+467,Barton,3,Erskine,1
+468,Belmont Abbey,3,King (TN),1
+469,Lees-McRae,1,North Greenville,3
+470,Cent. Christian (KS),0,Rockhurst,3
+471,Lincoln Memorial,3,Princeton,0
+472,Kentucky St.,0,LeMoyne-Owen,3
+473,Cent. Christian (KS),0,Rockhurst,3
+474,McKendree,3,Queens (NC),1
+475,LIU,1,George Mason,3
+476,Purdue Fort Wayne,2,Ohio St.,3
+477,Missouri S&T,3,Kentucky St.,0
+478,Lindenwood,1,Ball St.,3
+479,Charleston (WV),2,Saint Francis,3
+480,Maryville (MO),3,Roosevelt,0
+481,Lewis,3,Quincy,2
+482,Menlo,1,UC Santa Cruz,3
+483,UC San Diego,3,Stanford,2
+484,Missouri S&T,3,Thomas More,0
+485,Lincoln Memorial,3,NJIT,0
+486,Bethel (IN),3,Edward Waters,0
+487,UC Irvine,0,Hawaii,3
+488,North Greenville,1,Barry,3
+489,Benedict,1,Lees-McRae,3
+490,Sacred Heart,0,CSUN,3
+491,Jamestown,0,Vanguard,3
+492,Saint Francis,1,Queens (NC),3
+493,Catawba,3,Emmanuel (GA),0
+494,Talladega,3,LeMoyne-Owen,0
+495,Ball St.,3,Quincy,1
+496,Lees-McRae,1,Tusculum,3
+497,Thomas More,3,Central St. (OH),0
+498,Edward Waters,3,Benedict,2
+499,Saint Francis,3,Erskine,1
+500,Lincoln Memorial,3,King (TN),0
+501,North Greenville,3,Barry,1
+502,McKendree,3,Maryville (MO),1
+503,Long Beach St.,3,CSUN,0
+504,Sacred Heart,0,UC San Diego,3
+505,Olivet Nazarene,0,Vanguard,3
+506,Lindenwood,0,Hawaii,3
+507,Life (GA),2,Benedict,3
+508,Lewis,3,Emmanuel (GA),1
+509,Stanford,1,UCLA,3
+510,Jessup,1,CUI,3
+511,Roosevelt,1,St. John Fisher,3
+512,Reinhardt,3,King (TN),2
+513,Daemen,3,American Int'l,0
+514,Dominican (NY),0,FDU,3
+515,Central St. (OH),3,LeMoyne-Owen,0
+516,Ohio St.,3,NJIT,0
+517,Loyola Chicago,3,Ball St.,1
+518,Barton,0,Catawba,3
+519,Thomas More,0,Purdue Fort Wayne,3
+520,D'Youville,1,Merrimack,3
+521,LIU,3,Barry,1
+522,Roosevelt,1,LIU,3
+523,Mt. St. Joseph,0,Maryville (MO),3
+524,Southern California,3,BYU,2
+525,Sacred Heart,0,Long Beach St.,3
+526,Pepperdine,0,UC Irvine,3
+527,UC San Diego,3,UC Santa Barbara,1
+528,Stanford,0,UCLA,3
+529,Menlo,3,Vanguard,2
+530,Jessup,0,CUI,3
+531,Lindenwood,1,Hawaii,3
+532,Morehouse,0,Fort Valley St.,3
+533,Roberts Wesleyan,3,American Int'l,0
+534,Roosevelt,0,Barry,3
+535,Tusculum,3,King (TN),2
+536,Central St. (OH),3,LeMoyne-Owen,0
+537,Morehouse,0,Lewis,3
+538,Benedict,1,Edward Waters,3
+539,St. John Fisher,0,LIU,3
+540,D'Youville,3,American Int'l,1
+541,Menlo,1,Vanguard,3
+542,Daemen,1,Merrimack,3
+543,Lewis,3,Fort Valley St.,0
+544,Harvard,3,Charleston (WV),2
+545,Missouri S&T,1,McKendree,3
+546,Thomas More,0,Rockhurst,3
+547,Ohio St.,3,NJIT,0
+548,St. John Fisher,3,Barry,2
+549,Penn St.,0,Grand Canyon,3
+550,Southern California,3,BYU,0
+551,Sacred Heart,0,UC Irvine,3
+552,Roberts Wesleyan,0,Merrimack,3
+553,Harvard,1,Charleston (WV),3
+554,Thomas More,0,Rockhurst,3
+555,Penn St.,0,Grand Canyon,3
+556,Thomas More,0,Missouri S&T,3
+557,Maryville (MO),3,Central St. (OH),0
+558,FDU,3,Dominican (NY),2
+559,Fort Valley St.,3,Morehouse,0
+560,Viterbo,1,Barry,3
+561,Princeton,1,UC San Diego,3
+562,NJIT,2,St. Thomas Aquinas,3
+563,Maryville (MO),2,Purdue Fort Wayne,3
+564,Simpson (CA),0,Jessup,3
+565,Belmont Abbey,1,Tusculum,3
+566,Maryville (MO),3,Thomas More,0
+567,Trinity Christian,0,Roosevelt,3
+568,Princeton,1,CSUN,3
+569,Thomas More,3,Roberts Wesleyan,2
+570,Lewis,1,Lindenwood,3
+571,Quincy,3,Missouri S&T,2
+572,Queens (NC),0,Ohio St.,3
+573,UCLA,3,Vanguard,0
+574,Southern California,3,Penn St.,0
+575,Ball St.,0,Hawaii,3
+576,Thomas More,3,D'Youville,1
+577,Merrimack,3,St. Thomas Aquinas,0
+578,LeMoyne-Owen,0,Benedict,3
+579,NJIT,1,George Mason,3
+580,King (TN),3,Erskine,1
+581,Loyola Chicago,3,Purdue Fort Wayne,0
+582,Tusculum,0,Charleston (WV),3
+583,Lees-McRae,0,Emmanuel (GA),3
+584,Belmont Abbey,3,Barton,1
+585,North Greenville,0,Mount Olive,3
+586,UC Santa Barbara,1,UC San Diego,3
+587,CUI,0,Grand Canyon,3
+588,Pepperdine,3,Stanford,1
+589,UC Merced,0,Menlo,3
+590,CSUN,0,Long Beach St.,3
+591,Ball St.,0,Southern California,3
+592,Penn St.,0,Hawaii,3
+593,Thomas More,3,D'Youville,0
+594,Roberts Wesleyan,0,Saint Francis,3
+595,Tusculum,3,Charleston (WV),2
+596,Queens (NC),0,Ohio St.,3
+597,Belmont Abbey,0,Mount Olive,3
+598,King (TN),1,Emmanuel (GA),3
+599,North Greenville,0,Barton,3
+600,Lees-McRae,0,Erskine,3
+601,Quincy,1,Lindenwood,3
+602,LeMoyne-Owen,0,Benedict,3
+603,Edward Waters,3,Morehouse,0
+604,Merrimack,0,George Mason,3
+605,Edward Waters,3,Morehouse,0
+606,Lewis,2,McKendree,3
+607,Roberts Wesleyan,3,Saint Vincent,1
+608,FDU,1,Sacred Heart,3
+609,Vanguard,0,UCLA,3
+610,CUI,0,Grand Canyon,3
+611,Pepperdine,3,Stanford,1
+612,Harvard,0,BYU,3
+613,Princeton,0,Long Beach St.,3
+614,Ball St.,3,Penn St.,2
+615,Southern California,3,Hawaii,1
+616,St. Thomas Aquinas,3,Dominican (NY),0
+617,Jessup,0,Simpson (CA),3
+618,Roberts Wesleyan,2,D'Youville,3
+619,Harvard,1,BYU,3
+620,Reinhardt,1,Emmanuel (GA),3
+621,Lincoln Memorial,3,Tusculum,0
+622,Truett-McConnell,0,Benedict,3
+623,American Int'l,1,Regis (MA),3
+624,Bethel (IN),3,Roosevelt,1
+625,Mount Olive,3,Barton,0
+626,Erskine,1,Catawba,3
+627,Wittenberg,0,Charleston (WV),3
+628,Morehouse,0,Benedict,3
+629,Lindenwood,2,McKendree,3
+630,Pacific Union,0,Jessup,3
+631,Merrimack,3,Dominican (NY),0
+632,Daemen,1,George Mason,3
+633,Ball St.,3,Queens (NC),2
+634,CSUN,3,Lewis,2
+635,Fisher,0,American Int'l,3
+636,Ohio St.,1,Loyola Chicago,3
+637,Vanguard,3,CUI,2
+638,FDU,1,LIU,3
+639,Rockhurst,0,Missouri S&T,3
+640,Daemen,0,UC Irvine,3
+641,Purdue Fort Wayne,3,Quincy,2
+642,D'Youville,0,Saint Francis,3
+643,North Greenville,0,Lincoln Memorial,3
+644,Edward Waters,3,Central St. (OH),2
+645,Benedict,3,Morehouse,0
+646,Sacred Heart,3,Merrimack,1
+647,Mount Olive,3,Lees-McRae,1
+648,Barton,3,King (TN),0
+649,LeMoyne-Owen,0,Roosevelt,3
+650,BYU,3,Grand Canyon,1
+651,Menlo,0,Pepperdine,3
+652,NJIT,1,Long Beach St.,3
+653,LIU,2,FDU,3
+654,Daemen,1,Princeton,3
+655,Rockhurst,3,Roosevelt,0
+656,Purdue Fort Wayne,1,Lindenwood,3
+657,Barton,3,Lees-McRae,0
+658,Erskine,0,Belmont Abbey,3
+659,Ball St.,3,Queens (NC),1
+660,Mount Olive,3,King (TN),0
+661,Emmanuel (GA),2,North Greenville,3
+662,Thomas More,0,Charleston (WV),3
+663,Edward Waters,3,Central St. (OH),1
+664,Rockhurst,3,LeMoyne-Owen,0
+665,D'Youville,0,Saint Francis,3
+666,Dominican (NY),2,Merrimack,3
+667,UC Irvine,3,George Mason,0
+668,Wabash,0,Maryville (MO),3
+669,McKendree,3,Quincy,1
+670,Ohio St.,2,Lewis,3
+671,Roosevelt,1,Missouri S&T,3
+672,Menlo,0,Pepperdine,3
+673,CSUN,2,Loyola Chicago,3
+674,St. Thomas Aquinas,2,Sacred Heart,3
+675,BYU,0,Grand Canyon,3
+676,Vanguard,0,CUI,3
+677,NJIT,0,Long Beach St.,3
+678,American Int'l,3,Emerson,2
+679,Edward Waters,3,Warner,0
+680,UC Santa Barbara,3,Cal Lutheran,2
+681,King (TN),0,Tusculum,3
+682,Catawba,3,Benedict,0
+683,Roosevelt,3,Wis.-Stevens Point,2
+684,McKendree,2,Ohio St.,3
+685,Lindenwood,0,Loyola Chicago,3
+686,Queens (NC),0,Lewis,3
+687,Pepperdine,0,UCLA,3
+688,CUI,3,Vanguard,1
+689,Roberts Wesleyan,3,Dominican (NY),1
+690,Edward Waters,3,LeMoyne-Owen,0
+691,Saint Francis,3,FDU,1
+692,Central St. (OH),0,Fort Valley St.,3
+693,Daemen,2,LIU,3
+694,St. Thomas Aquinas,0,Merrimack,3
+695,Catawba,3,Lees-McRae,0
+696,George Mason,3,Harvard,2
+697,Tusculum,3,Thomas More,2
+698,Princeton,3,Sacred Heart,1
+699,Charleston (WV),0,Penn St.,3
+700,Emmanuel (GA),0,Mount Olive,3
+701,Erskine,2,Barton,3
+702,Quincy,3,Ball St.,2
+703,Lindenwood,0,Loyola Chicago,3
+704,Stanford,3,Menlo,0
+705,UC Santa Barbara,3,CSUN,2
+706,Grand Canyon,1,Southern California,3
+707,UC Irvine,3,Long Beach St.,0
+708,UC San Diego,0,Hawaii,3
+709,Rockhurst,3,Cent. Christian (KS),0
+710,Rockhurst,3,Cent. Christian (KS),0
+711,Edward Waters,3,LeMoyne-Owen,0
+712,Life (GA),1,Barry,3
+713,St. Thomas Aquinas,3,American Int'l,0
+714,Daemen,0,LIU,3
+715,Central St. (OH),0,Fort Valley St.,3
+716,George Mason,0,Harvard,3
+717,Queens (NC),2,Lewis,3
+718,Charleston (WV),3,Penn St.,1
+719,Lees-McRae,1,Belmont Abbey,3
+720,Erskine,0,Mount Olive,3
+721,Emmanuel (GA),0,Barton,3
+722,North Greenville,3,King (TN),0
+723,Maryville (MO),3,Edward Waters,0
+724,Saint Francis,3,FDU,0
+725,Princeton,3,Sacred Heart,0
+726,D'Youville,0,NJIT,3
+727,Maryville (MO),3,LeMoyne-Owen,0
+728,McKendree,1,Ball St.,3
+729,Quincy,1,Purdue Fort Wayne,3
+730,Grand Canyon,1,Southern California,3
+731,UCLA,3,Pepperdine,1
+732,Long Beach St.,3,UC Irvine,0
+733,Menlo,0,Stanford,3
+734,CSUN,1,UC Santa Barbara,3
+735,CUI,3,Vanguard,2
+736,UC San Diego,1,Hawaii,3
+737,D'Youville,3,Dominican (NY),1
+738,Daemen,0,Harvard,3
+739,Maryville (MO),3,LeMoyne-Owen,0
+740,North Greenville,3,Tusculum,2
+741,Quincy,0,Rockhurst,3
+742,UC Merced,0,Jessup,3
+743,McKendree,3,Missouri S&T,1
+744,Catawba,1,Belmont Abbey,3
+745,American Int'l,0,Nichols,3
+746,Simpson (CA),0,Jessup,3
+747,Loyola Chicago,3,Queens (NC),0
+748,Ball St.,1,Ohio St.,3
+749,Lewis,3,Purdue Fort Wayne,0
+750,Stanford,0,BYU,3
+751,Pepperdine,1,Southern California,3
+752,Long Beach St.,3,UC Santa Barbara,1
+753,Benedict,1,Central St. (OH),3
+754,LeMoyne-Owen,0,Fort Valley St.,3
+755,Sacred Heart,0,Penn St.,3
+756,LIU,3,D'Youville,0
+757,Dominican (NY),0,Harvard,3
+758,NJIT,3,Charleston (WV),1
+759,George Mason,1,Princeton,3
+760,Lincoln Memorial,3,Barton,0
+761,Tusculum,3,Catawba,1
+762,Lindenwood,3,Quincy,1
+763,Roosevelt,0,Maryville (MO),3
+764,Hawaii,0,CSUN,3
+765,UCLA,0,Grand Canyon,3
+766,Stanford,1,BYU,3
+767,UC Irvine,1,UC San Diego,3
+768,Jessup,3,Vanguard,2
+769,CUI,1,Menlo,3
+770,UC Santa Barbara,0,Long Beach St.,3
+771,American Int'l,0,Dominican (NY),3
+772,St. Thomas Aquinas,3,Roberts Wesleyan,0
+773,Lincoln Memorial,3,Mount Olive,1
+774,LeMoyne-Owen,0,Fort Valley St.,3
+775,NJIT,3,Charleston (WV),0
+776,Loyola Chicago,3,Queens (NC),0
+777,Belmont Abbey,3,Emmanuel (GA),1
+778,Erskine,0,North Greenville,3
+779,Sacred Heart,1,Penn St.,3
+780,Jessup,2,Vanguard,3
+781,Benedict,3,Central St. (OH),2
+782,LIU,3,D'Youville,1
+783,Missouri S&T,2,Rockhurst,3
+784,George Mason,0,Princeton,3
+785,Lewis,1,Ohio St.,3
+786,FDU,1,Daemen,3
+787,Quincy,2,McKendree,3
+788,Ball St.,1,Purdue Fort Wayne,3
+789,UCLA,3,Grand Canyon,2
+790,Southern California,1,Pepperdine,3
+791,Hawaii,3,CSUN,0
+792,UC San Diego,0,UC Irvine,3
+793,CUI,0,Menlo,3
+794,FDU,1,Daemen,3
+795,Lincoln Memorial,3,Lees-McRae,0
+796,Roosevelt,3,Trinity Christian,0
+797,Edward Waters,1,Fort Valley St.,3
+798,Merrimack,3,Springfield,1
+799,Missouri S&T,1,Maryville (MO),3
+800,Charleston (WV),3,Thomas More,0
+801,Queens (NC),1,Lindenwood,3
+802,Loyola Chicago,0,Lewis,3
+803,UC San Diego,2,CSUN,3
+804,UC Irvine,3,UC Santa Barbara,2
+805,Jessup,1,Pepperdine,3
+806,Thomas More,0,Maryville (MO),3
+807,Jessup,0,Pepperdine,3
+808,Catawba,3,Tusculum,2
+809,King (TN),0,Lincoln Memorial,3
+810,Penn St.,3,George Mason,2
+811,Saint Francis,1,Daemen,3
+812,D'Youville,1,FDU,3
+813,NJIT,3,Sacred Heart,1
+814,Harvard,0,Princeton,3
+815,LeMoyne-Owen,0,Morehouse,3
+816,Merrimack,3,LIU,1
+817,Purdue Fort Wayne,0,McKendree,3
+818,Ohio St.,3,Quincy,0
+819,BYU,2,UCLA,3
+820,Vanguard,1,Menlo,3
+821,Stanford,3,Southern California,2
+822,Long Beach St.,3,Hawaii,1
+823,Dominican (NY),0,St. Thomas Aquinas,3
+824,Queens (NC),1,Lindenwood,3
+825,American Int'l,0,Roberts Wesleyan,3
+826,King (TN),3,Lees-McRae,0
+827,Catawba,0,Lincoln Memorial,3
+828,Emmanuel (GA),0,Erskine,3
+829,LeMoyne-Owen,2,Morehouse,3
+830,NJIT,3,Sacred Heart,0
+831,Fort Valley St.,3,Edward Waters,0
+832,Saint Francis,3,Daemen,0
+833,D'Youville,0,FDU,3
+834,Harvard,2,Princeton,3
+835,Vanguard,0,Menlo,3
+836,Purdue Fort Wayne,0,McKendree,3
+837,Penn St.,3,George Mason,2
+838,Ball St.,1,Loyola Chicago,3
+839,Ohio St.,3,Quincy,1
+840,BYU,1,UCLA,3
+841,North Greenville,1,Belmont Abbey,3
+842,Barton,1,Mount Olive,3
+843,Thomas More,1,Tusculum,3
+844,Stanford,3,Southern California,1
+845,UC Santa Barbara,0,UC Irvine,3
+846,CSUN,3,UC San Diego,2
+847,Long Beach St.,2,Hawaii,3
+848,Morehouse,1,Benedict,3
+849,LeMoyne-Owen,0,Central St. (OH),3
+850,Morehouse,0,Benedict,3
+851,Central St. (OH),1,Edward Waters,3
+852,Benedict,0,Fort Valley St.,3
+853,LeMoyne-Owen,2,Morehouse,3
+854,Benedict,1,Central St. (OH),3
+855,Edward Waters,1,Fort Valley St.,3
+856,Erskine,1,North Greenville,3
+857,King (TN),0,Barton,3
+858,CSUN,0,UC Irvine,3
+859,Grand Canyon,3,Stanford,2
+860,Southern California,2,UCLA,3
+861,Roosevelt,2,Thomas More,3
+862,American Int'l,0,St. Thomas Aquinas,3
+863,Rockhurst,3,Catawba,1
+864,Dominican (NY),0,Roberts Wesleyan,3
+865,Merrimack,3,FDU,0
+866,Thomas More,0,Lincoln Memorial,3
+867,LIU,1,Saint Francis,3
+868,Charleston (WV),0,George Mason,3
+869,Harvard,0,NJIT,3
+870,Barry,0,Maryville (MO),3
+871,D'Youville,1,Daemen,3
+872,Princeton,3,Penn St.,1
+873,Missouri S&T,3,Tusculum,2
+874,Grand Canyon,3,Stanford,2
+875,Pepperdine,2,BYU,3
+876,Hawaii,3,UC Santa Barbara,1
+877,Long Beach St.,3,UC San Diego,0
+878,Menlo,3,CUI,1
+879,Rockhurst,0,Lincoln Memorial,3
+880,Merrimack,3,FDU,2
+881,Roberts Wesleyan,0,St. Thomas Aquinas,3
+882,Missouri S&T,2,Maryville (MO),3
+883,Princeton,0,Penn St.,3
+884,Daemen,1,D'Youville,3
+885,LIU,1,Saint Francis,3
+886,Charleston (WV),1,George Mason,3
+887,Lindenwood,1,Ohio St.,3
+888,Maryville (MO),1,Lincoln Memorial,3
+889,Harvard,1,NJIT,3
+890,Purdue Fort Wayne,0,McKendree,3
+891,UCLA,0,Southern California,3
+892,Queens (NC),0,Loyola Chicago,3
+893,UC Irvine,3,CSUN,2
+894,Pepperdine,1,BYU,3
+895,Ball St.,2,Lewis,3
+896,Hawaii,0,UC Santa Barbara,3
+897,Menlo,3,CUI,0
+898,UC San Diego,0,Long Beach St.,3
+899,Vanguard,1,CUI,3
+900,Charleston (WV),0,George Mason,3
+901,Ohio St.,3,McKendree,0
+902,Harvard,0,Penn St.,3
+903,CUI,0,Grand Canyon,3
+904,Lewis,0,Loyola Chicago,3
+905,Menlo,1,Stanford,3
+906,George Mason,1,Princeton,2
+907,Penn St.,,NJIT,
+908,Grand Canyon,,Pepperdine,
+909,UC Santa Barbara,,UC San Diego,
+910,Stanford,,BYU,
+911,CSUN,,UC Irvine,
+912,Daemen,,LIU,
+913,North Greenville,,Mount Olive,
+914,FDU,,Saint Francis,
+915,Barton,,Belmont Abbey,
+916,TBA,,UCLA,
+917,TBA,,Long Beach St.,
+918,TBA,,Southern California,
+919,TBA,,Hawaii,
+920,Ohio St.,,Loyola Chicago,
