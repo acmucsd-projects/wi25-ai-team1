@@ -1,75 +1,69 @@
-import { Image } from 'expo-image';
-import { Platform, StyleSheet } from 'react-native';
-
-import { HelloWave } from '@/components/HelloWave';
-import ParallaxScrollView from '@/components/ParallaxScrollView';
+import React from 'react';
+import { SafeAreaView, View, Image, StyleSheet, ScrollView } from 'react-native';
+import { LinearGradient } from 'expo-linear-gradient';
+import MemberCard from '@/components/MemberCard';
 import { ThemedText } from '@/components/ThemedText';
-import { ThemedView } from '@/components/ThemedView';
+import { Colors, Spacing, Typography, GlobalStyles } from '../styles/theme';
 
-export default function HomeScreen() {
+const members = [
+  { name: 'Alan', image: require('@/assets/images/alan.jpg') },
+  { name: 'Reagan', image: require('@/assets/images/reagan.jpg') },
+  { name: 'Isha', image: require('@/assets/images/isha.jpg') },
+  { name: 'Jamera', image: require('@/assets/images/jamera.jpg') },
+  { name: 'Jaden', image: require('@/assets/images/jaden.jpg') },
+];
+
+export default function App() {
   return (
-    <ParallaxScrollView
-      headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
-      headerImage={
-        <Image
-          source={require('@/assets/images/partial-react-logo.png')}
-          style={styles.reactLogo}
-        />
-      }>
-      <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
-        <HelloWave />
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-        <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press{' '}
-          <ThemedText type="defaultSemiBold">
-            {Platform.select({
-              ios: 'cmd + d',
-              android: 'cmd + m',
-              web: 'F12',
-            })}
-          </ThemedText>{' '}
-          to open developer tools.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 2: Explore</ThemedText>
-        <ThemedText>
-          {`Tap the Explore tab to learn more about what's included in this starter app.`}
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
-        <ThemedText>
-          {`When you're ready, run `}
-          <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
-          <ThemedText type="defaultSemiBold">app-example</ThemedText>.
-        </ThemedText>
-      </ThemedView>
-    </ParallaxScrollView>
+    <LinearGradient colors={[Colors.primaryDark, Colors.primary]} style={styles.container}>
+      <SafeAreaView style={styles.safe}>
+        <ScrollView contentContainerStyle={styles.scroll} showsVerticalScrollIndicator={false}>
+          <View style={styles.logoRow}>
+            <Image source={require('@/assets/images/acm-ucsd-logo.png')} style={styles.logo} resizeMode="contain" />
+            <Image source={require('@/assets/images/acm-projects-ucsd-logo.png')} style={styles.logo} resizeMode="contain" />
+          </View>
+
+          <ThemedText style={styles.title}>AI Team 1</ThemedText>
+          <ThemedText style={styles.subtitle}>Season Prediction Showcase</ThemedText>
+
+          <ThemedText style={GlobalStyles.sectionTitle}>Who Are We?</ThemedText>
+          <ThemedText style={GlobalStyles.paragraph}>
+            TODO
+          </ThemedText>
+
+          <View style={styles.grid}>
+            {members.map((m) => (
+              <MemberCard key={m.name} name={m.name} image={m.image} />
+            ))}
+          </View>
+
+          <ThemedText style={GlobalStyles.sectionTitle}>Why This Project?</ThemedText>
+          <ThemedText style={GlobalStyles.paragraph}>
+            TODO
+          </ThemedText>
+
+          <ThemedText style={GlobalStyles.sectionTitle}>What’s Next?</ThemedText>
+          <ThemedText style={GlobalStyles.paragraph}>
+            TODO
+          </ThemedText>
+        </ScrollView>
+      </SafeAreaView>
+    </LinearGradient>
   );
 }
 
 const styles = StyleSheet.create({
-  titleContainer: {
-    flexDirection: 'row',
+  container: { flex: 1 },
+  safe: { flex: 1 },
+  scroll: {
     alignItems: 'center',
-    gap: 8,
+    paddingHorizontal: Spacing.lg,
+    paddingTop: Spacing.xl,
+    paddingBottom: Spacing.xl,
   },
-  stepContainer: {
-    gap: 8,
-    marginBottom: 8,
-  },
-  reactLogo: {
-    height: 178,
-    width: 290,
-    bottom: 0,
-    left: 0,
-    position: 'absolute',
-  },
+  logoRow: { flexDirection: 'row', marginBottom: Spacing.lg },
+  logo: { width: 100, height: 100, marginHorizontal: Spacing.sm },
+  title: { ...Typography.title, marginBottom: Spacing.xs, textAlign: 'center' },
+  subtitle: { ...Typography.subtitle, marginBottom: Spacing.lg, textAlign: 'center' },
+  grid: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', marginTop: Spacing.md },
 });

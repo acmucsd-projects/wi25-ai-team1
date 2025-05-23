@@ -1,110 +1,115 @@
-import { Image } from 'expo-image';
-import { Platform, StyleSheet } from 'react-native';
+import React, { useMemo, useState } from 'react';
+import { SafeAreaView, FlatList, View, Text, StyleSheet, Pressable } from 'react-native';
+import fileJson from '../../assets/file.json';
+import { Colors, Spacing, Typography, Shadows } from '../styles/theme';
 
-import { Collapsible } from '@/components/Collapsible';
-import { ExternalLink } from '@/components/ExternalLink';
-import ParallaxScrollView from '@/components/ParallaxScrollView';
-import { ThemedText } from '@/components/ThemedText';
-import { ThemedView } from '@/components/ThemedView';
-import { IconSymbol } from '@/components/ui/IconSymbol';
+//import json
+const matrix = fileJson as { columns: string[]; data: (string | number)[][] };
+const colIndex = {
+  Team: matrix.columns.indexOf('Team'),
+  PredictedPct: matrix.columns.indexOf('PredictedPct'),
+  ActualPct: matrix.columns.indexOf('ActualPct'),
+};
+const raw = matrix.data.map((row, idx) => ({
+  id: String(idx),
+  Team: row[colIndex.Team] as string,
+  PredictedPct: row[colIndex.PredictedPct] as number,
+  ActualPct: row[colIndex.ActualPct] as number,
+}));
 
-export default function TabTwoScreen() {
+//constants
+const cols = [
+  { key: 'Team', label: 'Team', flex: 3 },
+  { key: 'PredictedPct', label: 'Predicted %', flex: 1 },
+  { key: 'ActualPct', label: 'Actual %', flex: 1 },
+] as const;
+
+type SortKey = (typeof cols)[number]['key'];
+
+//table
+export default function PredictionsScreen() {
+  const [sortKey, setSortKey] = useState<SortKey>('PredictedPct');
+  const [asc, setAsc] = useState(false);
+
+  const sorted = useMemo(() => {
+    const data = [...raw];
+    data.sort((a, b) => {
+      const aVal = a[sortKey];
+      const bVal = b[sortKey];
+      if (typeof aVal === 'string') return asc ? (aVal as string).localeCompare(bVal as string) : (bVal as string).localeCompare(aVal as string);
+      return asc ? (aVal as number) - (bVal as number) : (bVal as number) - (aVal as number);
+    });
+    return data;
+  }, [sortKey, asc]);
+
+  const avgError = useMemo(() => raw.reduce((acc, r) => acc + Math.abs(r.PredictedPct - r.ActualPct), 0) / raw.length * 100, []);
+
+  const bestTeam = useMemo(() => raw.reduce((prev, cur) => Math.abs(cur.PredictedPct - cur.ActualPct) < Math.abs(prev.PredictedPct - prev.ActualPct) ? cur : prev), []);
+
+  const toggleSort = (key: SortKey) => {
+    if (key === sortKey) setAsc(!asc); else { setSortKey(key); setAsc(key === 'Team'); }
+  };
+
+  const renderHeader = () => (
+    <View style={styles.headerRow}>
+      {cols.map((c, i) => (
+        <Pressable key={c.key} style={[styles.cell, { flex: c.flex }, i < cols.length - 1 && styles.cellRightBorder]} onPress={() => toggleSort(c.key)}>
+          <Text style={styles.headerText}>{c.label}{sortKey === c.key ? (asc ? ' ▲' : ' ▼') : ''}</Text>
+        </Pressable>
+      ))}
+    </View>
+  );
+
   return (
-    <ParallaxScrollView
-      headerBackgroundColor={{ light: '#D0D0D0', dark: '#353636' }}
-      headerImage={
-        <IconSymbol
-          size={310}
-          color="#808080"
-          name="chevron.left.forwardslash.chevron.right"
-          style={styles.headerImage}
+    <SafeAreaView style={styles.safe}>
+      <Text style={styles.pageTitle}>2025 NCAA Men’s Volleyball • Prediction Accuracy</Text>
+
+      <View style={styles.statsRow}>
+        <View style={styles.statCard}>
+          <Text style={styles.statValue}>{avgError.toFixed(1)}%</Text>
+          <Text style={styles.statLabel}>Average Error</Text>
+        </View>
+        <View style={styles.statCard}>
+          <Text style={styles.statValue} numberOfLines={1}>{bestTeam.Team}</Text>
+          <Text style={styles.statLabel}>Most Accurate</Text>
+        </View>
+      </View>
+
+      <View style={styles.tableCard}>
+        <FlatList
+          data={sorted}
+          keyExtractor={(item) => item.id}
+          ListHeaderComponent={renderHeader}
+          stickyHeaderIndices={[0]}
+          renderItem={({ item, index }) => (
+            <View style={[styles.row, index % 2 ? styles.alt : null]}>
+              <Text style={[styles.cell, { flex: 3 }, styles.cellRightBorder]} numberOfLines={1} ellipsizeMode="tail">{item.Team}</Text>
+              <Text style={[styles.cell, { flex: 1 }, styles.cellRightBorder]}>{(item.PredictedPct * 100).toFixed(1)}%</Text>
+              <Text style={[styles.cell, { flex: 1 }]}>{(item.ActualPct * 100).toFixed(1)}%</Text>
+            </View>
+          )}
+          style={{ maxHeight: '65%' }}
         />
-      }>
-      <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Explore</ThemedText>
-      </ThemedView>
-      <ThemedText>This app includes example code to help you get started.</ThemedText>
-      <Collapsible title="File-based routing">
-        <ThemedText>
-          This app has two screens:{' '}
-          <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> and{' '}
-          <ThemedText type="defaultSemiBold">app/(tabs)/explore.tsx</ThemedText>
-        </ThemedText>
-        <ThemedText>
-          The layout file in <ThemedText type="defaultSemiBold">app/(tabs)/_layout.tsx</ThemedText>{' '}
-          sets up the tab navigator.
-        </ThemedText>
-        <ExternalLink href="https://docs.expo.dev/router/introduction">
-          <ThemedText type="link">Learn more</ThemedText>
-        </ExternalLink>
-      </Collapsible>
-      <Collapsible title="Android, iOS, and web support">
-        <ThemedText>
-          You can open this project on Android, iOS, and the web. To open the web version, press{' '}
-          <ThemedText type="defaultSemiBold">w</ThemedText> in the terminal running this project.
-        </ThemedText>
-      </Collapsible>
-      <Collapsible title="Images">
-        <ThemedText>
-          For static images, you can use the <ThemedText type="defaultSemiBold">@2x</ThemedText> and{' '}
-          <ThemedText type="defaultSemiBold">@3x</ThemedText> suffixes to provide files for
-          different screen densities
-        </ThemedText>
-        <Image source={require('@/assets/images/react-logo.png')} style={{ alignSelf: 'center' }} />
-        <ExternalLink href="https://reactnative.dev/docs/images">
-          <ThemedText type="link">Learn more</ThemedText>
-        </ExternalLink>
-      </Collapsible>
-      <Collapsible title="Custom fonts">
-        <ThemedText>
-          Open <ThemedText type="defaultSemiBold">app/_layout.tsx</ThemedText> to see how to load{' '}
-          <ThemedText style={{ fontFamily: 'SpaceMono' }}>
-            custom fonts such as this one.
-          </ThemedText>
-        </ThemedText>
-        <ExternalLink href="https://docs.expo.dev/versions/latest/sdk/font">
-          <ThemedText type="link">Learn more</ThemedText>
-        </ExternalLink>
-      </Collapsible>
-      <Collapsible title="Light and dark mode components">
-        <ThemedText>
-          This template has light and dark mode support. The{' '}
-          <ThemedText type="defaultSemiBold">useColorScheme()</ThemedText> hook lets you inspect
-          what the user&apos;s current color scheme is, and so you can adjust UI colors accordingly.
-        </ThemedText>
-        <ExternalLink href="https://docs.expo.dev/develop/user-interface/color-themes/">
-          <ThemedText type="link">Learn more</ThemedText>
-        </ExternalLink>
-      </Collapsible>
-      <Collapsible title="Animations">
-        <ThemedText>
-          This template includes an example of an animated component. The{' '}
-          <ThemedText type="defaultSemiBold">components/HelloWave.tsx</ThemedText> component uses
-          the powerful <ThemedText type="defaultSemiBold">react-native-reanimated</ThemedText>{' '}
-          library to create a waving hand animation.
-        </ThemedText>
-        {Platform.select({
-          ios: (
-            <ThemedText>
-              The <ThemedText type="defaultSemiBold">components/ParallaxScrollView.tsx</ThemedText>{' '}
-              component provides a parallax effect for the header image.
-            </ThemedText>
-          ),
-        })}
-      </Collapsible>
-    </ParallaxScrollView>
+      </View>
+    </SafeAreaView>
   );
 }
 
+//styles
+const borderColor = Colors.mutedLight;
+
 const styles = StyleSheet.create({
-  headerImage: {
-    color: '#808080',
-    bottom: -90,
-    left: -35,
-    position: 'absolute',
-  },
-  titleContainer: {
-    flexDirection: 'row',
-    gap: 8,
-  },
+  safe: { flex: 1, backgroundColor: Colors.light, padding: Spacing.lg },
+  pageTitle: { ...Typography.title, fontSize: 24, color: Colors.primaryDark, textAlign: 'center', marginBottom: Spacing.lg },
+  statsRow: { flexDirection: 'row', justifyContent: 'space-around', marginBottom: Spacing.lg, borderBlockColor: 'blue' },
+  statCard: { backgroundColor: Colors.primary, borderRadius: 12, paddingVertical: Spacing.md, paddingHorizontal: Spacing.lg, minWidth: 140, alignItems: 'center', ...Shadows.card },
+  statValue: { ...Typography.subtitle, fontSize: 20, color: Colors.light },
+  statLabel: { ...Typography.body, fontSize: 12, color: Colors.mutedLight },
+  tableCard: { flex: 1, backgroundColor: Colors.light, borderRadius: 16, overflow: 'hidden', ...Shadows.card },
+  headerRow: { flexDirection: 'row', backgroundColor: Colors.primaryDark, borderBottomWidth: 1, borderColor },
+  headerText: { ...Typography.subtitle, fontSize: 14, color: Colors.light, textAlign: 'center' },
+  row: { flexDirection: 'row', paddingVertical: 6, paddingHorizontal: Spacing.sm, borderBottomWidth: 1, borderColor },
+  alt: { backgroundColor: Colors.mutedLight },
+  cell: { ...Typography.body, color: Colors.primaryDark, textAlign: 'center', paddingHorizontal: 4 },
+  cellRightBorder: { borderRightWidth: 1, borderColor },
 });
