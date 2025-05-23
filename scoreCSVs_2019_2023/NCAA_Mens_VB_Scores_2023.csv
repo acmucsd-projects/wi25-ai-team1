@@ -1,0 +1,841 @@
+Team 1,Team 1 Score,Team 2,Team 2 Score,Date
+Lincoln Memorial,0,Pepperdine,3,01-04-2023
+Southern California,1,UC Santa Barbara,3,01-05-2023
+Central St. (OH),0,Ohio St.,3,01-05-2023
+UCLA,3,CSUN,0,01-05-2023
+Lincoln Memorial,2,UC San Diego,3,01-05-2023
+Belmont Abbey,3,Eastern Nazarene,0,01-06-2023
+Eastern Nazarene,0,FDU,3,01-06-2023
+UC Irvine,3,Lewis,1,01-06-2023
+UC San Diego,0,UCLA,3,01-06-2023
+St. Francis Brooklyn,3,Belmont Abbey,0,01-06-2023
+King (TN),0,Purdue Fort Wayne,3,01-06-2023
+Tusculum,0,Erskine,3,01-06-2023
+Central St. (OH),1,Penn St.,3,01-06-2023
+Lindenwood,1,Grand Canyon,3,01-06-2023
+Lincoln Memorial,3,UC Santa Barbara,2,01-06-2023
+McKendree,0,BYU,3,01-06-2023
+Saint Francis (PA),1,Stanford,3,01-06-2023
+Southern California,3,CSUN,0,01-06-2023
+FDU,3,Belmont Abbey,1,01-07-2023
+St. Francis Brooklyn,3,Eastern Nazarene,0,01-07-2023
+Tusculum,1,Emmanuel (GA),3,01-07-2023
+American Int'l,0,Eastern Nazarene,3,01-07-2023
+Penn St.,3,Ohio St.,1,01-07-2023
+American Int'l,0,St. Francis Brooklyn,3,01-07-2023
+McKendree,0,UC Irvine,3,01-07-2023
+Lincoln Memorial,0,CSUN,3,01-07-2023
+NJIT,3,Purdue Fort Wayne,0,01-07-2023
+Saint Francis (PA),2,Stanford,3,01-07-2023
+Southern California,3,UC San Diego,2,01-07-2023
+Lewis,1,BYU,3,01-07-2023
+UCLA,3,UC Santa Barbara,0,01-07-2023
+Lindenwood,0,Grand Canyon,3,01-08-2023
+Missouri S&T,0,Loyola Chicago,3,01-09-2023
+Princeton,3,D'Youville,0,01-09-2023
+Princeton,1,Daemen,3,01-10-2023
+LIU,3,Belmont Abbey,0,01-10-2023
+Missouri S&T,0,Lewis,3,01-10-2023
+NJIT,1,McKendree,3,01-10-2023
+St. Francis Brooklyn,0,Springfield,3,01-11-2023
+LIU,3,Queens (NC),1,01-11-2023
+Central St. (OH),3,Erskine,2,01-11-2023
+King (TN),0,Lewis,3,01-11-2023
+NJIT,0,Lindenwood,3,01-11-2023
+Vanguard,0,CUI,3,01-11-2023
+King (TN),0,Loyola Chicago,3,01-12-2023
+LIU,1,Limestone,3,01-12-2023
+Mount Olive,3,Tusculum,1,01-12-2023
+Mount Olive,0,Lincoln Memorial,3,01-13-2023
+FDU,3,American Int'l,0,01-13-2023
+Emmanuel (GA),0,UC Irvine,3,01-13-2023
+Barton,2,Tusculum,3,01-13-2023
+Carthage,0,Purdue Fort Wayne,3,01-13-2023
+Harvard,3,Sacred Heart,1,01-13-2023
+Belmont Abbey,0,Charleston (WV),3,01-13-2023
+Daemen,0,Penn St.,3,01-13-2023
+Southern California,3,Lindenwood,0,01-13-2023
+Kentucky St.,1,Maryville (MO),3,01-13-2023
+UC San Diego,0,Loyola Chicago,3,01-13-2023
+Master's,0,Pepperdine,3,01-13-2023
+Grand Canyon,3,George Mason,0,01-13-2023
+Princeton,1,UCLA,3,01-13-2023
+UC Santa Barbara,0,Stanford,3,01-13-2023
+Cal Lutheran,0,CSUN,3,01-13-2023
+King (TN),0,Long Beach St.,3,01-13-2023
+Ball St.,1,Hawaii,3,01-13-2023
+Sacred Heart,0,NJIT,3,01-14-2023
+Kentucky St.,0,Missouri S&T,3,01-14-2023
+Barton,0,Lincoln Memorial,3,01-14-2023
+Queens (NC),0,North Greenville,3,01-14-2023
+American Int'l,0,Fairleigh Dickinson,3,01-14-2023
+Merrimack,0,Penn St.,3,01-14-2023
+Southern California,3,King (TN),0,01-14-2023
+UC San Diego,1,Lewis,3,01-14-2023
+D'Youville,3,Belmont Abbey,0,01-14-2023
+Ohio St.,2,Grand Canyon,3,01-14-2023
+UC Santa Barbara,2,Stanford,3,01-14-2023
+Emmanuel (GA),0,Pepperdine,3,01-14-2023
+Lindenwood,0,Long Beach St.,3,01-14-2023
+Ball St.,1,Hawaii,3,01-14-2023
+D'Youville,0,Charleston (WV),3,01-15-2023
+Ohio St.,3,George Mason,1,01-15-2023
+Emmanuel (GA),0,Master's,3,01-16-2023
+Princeton,0,Pepperdine,3,01-16-2023
+Erskine,1,Tusculum,3,01-17-2023
+Harvard,3,Merrimack,0,01-17-2023
+Emmanuel (GA),0,UC San Diego,3,01-17-2023
+Lees-McRae,0,Queens (NC),3,01-18-2023
+Stevens,2,Sacred Heart,3,01-18-2023
+Princeton,3,CUI,1,01-18-2023
+Master's,1,CSUN,3,01-18-2023
+Southern California,2,UC Irvine,3,01-18-2023
+Menlo,0,UC San Diego,3,01-18-2023
+Quincy,3,Limestone,2,01-19-2023
+Lincoln Memorial,0,Charleston (WV),3,01-19-2023
+Quincy,1,King (TN),3,01-19-2023
+LIU,3,George Mason,1,01-19-2023
+Tusculum,0,North Greenville,3,01-19-2023
+Menlo,1,CUI,3,01-19-2023
+UC Santa Barbara,2,Southern California,3,01-19-2023
+Saint Francis (PA),0,Hawaii,3,01-19-2023
+Alderson Broaddus,2,Adrian,3,01-20-2023
+Quincy,0,Lincoln Memorial,3,01-20-2023
+Quincy,0,Charleston (WV),3,01-20-2023
+Kentucky St.,1,Hiram,3,01-20-2023
+Randolph-Macon,3,Barton,1,01-20-2023
+Pepperdine,1,Penn St.,3,01-20-2023
+Merrimack,0,Mount Olive,3,01-20-2023
+Limestone,3,King (TN),1,01-20-2023
+Loyola Chicago,3,NJIT,0,01-20-2023
+Missouri S&T,0,Purdue Fort Wayne,3,01-20-2023
+Harvard,0,Ball St.,3,01-20-2023
+American Int'l,0,D'Youville,3,01-20-2023
+Maryville (MO),0,Ohio St.,3,01-20-2023
+LIU,0,Long Beach St.,3,01-20-2023
+Stanford,3,Lewis,1,01-20-2023
+FDU,0,BYU,3,01-20-2023
+UC Santa Barbara,0,UCLA,3,01-20-2023
+Menlo,0,CSUN,3,01-20-2023
+CUI,0,UC Irvine,3,01-20-2023
+Kentucky St.,2,Alderson Broaddus,3,01-21-2023
+Limestone,2,Lees-McRae,3,01-21-2023
+Charleston (WV),3,King (TN),0,01-21-2023
+Alderson Broaddus,3,Hiram,0,01-21-2023
+American Int'l,0,Daemen,3,01-21-2023
+Maryville (MO),1,Central St. (OH),3,01-21-2023
+Merrimack,3,Barton,1,01-21-2023
+St. Francis Brooklyn,1,NJIT,3,01-21-2023
+Kentucky St.,0,Adrian,3,01-21-2023
+Fort Valley St.,1,Erskine,3,01-21-2023
+Pepperdine,3,Lewis,1,01-21-2023
+Harvard,0,Purdue Fort Wayne,3,01-21-2023
+Tusculum,2,Ball St.,3,01-21-2023
+Loyola Chicago,3,LIU,1,01-21-2023
+Long Beach St.,3,George Mason,0,01-21-2023
+Missouri S&T,0,Ohio St.,3,01-21-2023
+Stanford,1,Penn St.,3,01-21-2023
+Fairleigh Dickinson,0,BYU,3,01-21-2023
+UC Irvine,3,CUI,0,01-21-2023
+UC San Diego,0,UCLA,3,01-21-2023
+Saint Francis (PA),0,Hawaii,3,01-21-2023
+Missouri S&T,0,Central St. (OH),3,01-22-2023
+Merrimack,3,Queens (NC),2,01-22-2023
+Fort Valley St.,1,Emmanuel (GA),3,01-24-2023
+King (TN),3,Tusculum,2,01-24-2023
+Limestone,0,North Greenville,3,01-25-2023
+Hawaii,3,Queens (NC),0,01-25-2023
+Long Beach St.,3,Penn St.,1,01-25-2023
+Maryville (MO),0,Quincy,3,01-25-2023
+Southern California,3,CSUN,1,01-25-2023
+BYU,0,UC Irvine,3,01-25-2023
+Rivier,,American Int'l,,01-25-2023
+Kentucky St.,0,Midway,3,01-26-2023
+Princeton,1,Ohio St.,3,01-26-2023
+Hawaii,3,Belmont Abbey,0,01-26-2023
+NJIT,3,George Mason,2,01-26-2023
+Mo. Baptist,1,Missouri S&T,3,01-26-2023
+Saint Francis (PA),1,McKendree,3,01-27-2023
+Mount Olive,3,Morehouse,0,01-27-2023
+King (TN),3,Fort Valley St.,2,01-27-2023
+North Greenville,0,Harvard,3,01-27-2023
+Edward Waters,0,Limestone,3,01-27-2023
+Pepperdine,3,NJIT,1,01-27-2023
+Thomas More,0,Charleston (WV),3,01-27-2023
+Tusculum,3,Alderson Broaddus,1,01-27-2023
+Central St. (OH),1,D'Youville,3,01-27-2023
+Sacred Heart,0,Purdue Fort Wayne,3,01-27-2023
+Princeton,2,Ohio St.,3,01-27-2023
+Queens (NC),0,Ball St.,3,01-27-2023
+Erskine,0,Grand Canyon,3,01-27-2023
+St. Francis Brooklyn,0,Lewis,3,01-27-2023
+Maryville (MO),1,Loyola Chicago,3,01-27-2023
+Missouri S&T,0,Quincy,3,01-27-2023
+UCLA,3,CSUN,0,01-27-2023
+BYU,3,UC Irvine,2,01-27-2023
+American Int'l,1,Eastern Nazarene,3,01-28-2023
+Central St. (OH),0,Daemen,3,01-28-2023
+Culver-Stockton,2,Kentucky St.,3,01-28-2023
+American Int'l,3,Emerson,0,01-28-2023
+Cumberland (TN),1,Edward Waters,3,01-28-2023
+Morehouse,0,Reinhardt,3,01-28-2023
+Rio Grande,3,Morehouse,0,01-28-2023
+Thomas More,3,Alderson Broaddus,2,01-28-2023
+Queens (NC),0,Purdue Fort Wayne,3,01-28-2023
+St. Andrews,0,Lees-McRae,3,01-28-2023
+Limestone,3,Cumberland (TN),0,01-28-2023
+Saint Francis (PA),2,North Greenville,3,01-28-2023
+Sacred Heart,0,Ball St.,3,01-28-2023
+Mount Olive,3,Fort Valley St.,0,01-28-2023
+Pepperdine,3,George Mason,0,01-28-2023
+Erskine,0,UC San Diego,3,01-28-2023
+St. Francis Brooklyn,0,Loyola Chicago,3,01-28-2023
+McKendree,3,Harvard,2,01-28-2023
+Tusculum,0,Charleston (WV),3,01-28-2023
+Hawaii,3,Barton,0,01-28-2023
+Maryville (MO),0,Lewis,3,01-28-2023
+Stanford,3,UC Santa Cruz,0,01-28-2023
+Benedict,3,Truett-McConnell,0,01-28-2023
+Central St. (OH),2,Merrimack,3,01-29-2023
+Daemen,3,St. John Fisher,2,01-29-2023
+UC San Diego,0,Grand Canyon,3,01-29-2023
+Campbellsville,1,Fort Valley St.,3,01-29-2023
+Emmanuel (GA),3,Fort Valley St.,1,01-31-2023
+King (TN),0,Lincoln Memorial,3,01-31-2023
+Lees-McRae,0,Grand Canyon,3,01-31-2023
+UCLA,3,George Mason,0,01-31-2023
+North Greenville,2,Limestone,3,02-01-2023
+Lees-McRae,1,Grand Canyon,3,02-01-2023
+Maryville (MO),0,Missouri S&T,3,02-01-2023
+Vanguard,3,CSUN,0,02-01-2023
+UC Santa Barbara,0,Pepperdine,3,02-01-2023
+BYU,3,Ball St.,1,02-02-2023
+Lees-McRae,3,Park (AZ),0,02-02-2023
+Loyola Chicago,1,CUI,3,02-02-2023
+Southern California,1,Penn St.,3,02-03-2023
+Saint Francis (PA),0,NJIT,3,02-03-2023
+UCLA,3,Ohio St.,1,02-03-2023
+Purdue Fort Wayne,3,Mount Olive,0,02-03-2023
+King (TN),3,Queens (NC),1,02-03-2023
+Campbellsville,0,North Greenville,3,02-03-2023
+Merrimack,3,American Int'l,1,02-03-2023
+Kentucky St.,0,Thomas More,3,02-03-2023
+Sacred Heart,1,Princeton,3,02-03-2023
+Daemen,3,Harvard,1,02-03-2023
+Erskine,3,Alderson Broaddus,0,02-03-2023
+Central St. (OH),0,Lincoln Memorial,3,02-03-2023
+BYU,1,Ball St.,3,02-03-2023
+LIU,3,Lindenwood,0,02-03-2023
+Culver-Stockton,0,Maryville (MO),3,02-03-2023
+Lewis,0,George Mason,3,02-03-2023
+Missouri S&T,1,McKendree,3,02-03-2023
+Stanford,2,CSUN,3,02-03-2023
+UC Irvine,1,Grand Canyon,3,02-03-2023
+Ottawa (AZ),0,UC San Diego,3,02-03-2023
+Loyola Chicago,2,Long Beach St.,3,02-03-2023
+Pepperdine,2,UC Santa Barbara,3,02-03-2023
+Missouri S&T,0,Lindenwood,3,02-04-2023
+Daemen,3,American Int'l,0,02-04-2023
+Central St. (OH),0,Lincoln Memorial,3,02-04-2023
+Erskine,0,Charleston (WV),3,02-04-2023
+St. Ambrose,0,Quincy,3,02-04-2023
+Southern California,1,Ohio St.,3,02-04-2023
+Stanford,3,Master's,0,02-04-2023
+Mount Olive,0,Lewis,3,02-04-2023
+Alderson Broaddus,0,Saint Francis (PA),3,02-04-2023
+Fort Valley St.,2,King (TN),3,02-04-2023
+Fisher,0,Merrimack,3,02-04-2023
+UC Irvine,2,Grand Canyon,3,02-04-2023
+Grand View,3,Quincy,0,02-04-2023
+Queens (NC),3,Barton,1,02-04-2023
+Purdue Fort Wayne,3,George Mason,2,02-04-2023
+LIU,0,McKendree,3,02-04-2023
+UCLA,1,Penn St.,3,02-04-2023
+Tusculum,,Princeton,,02-04-2023
+Tusculum,,NJIT,,02-05-2023
+Charleston (WV),3,Alderson Broaddus,0,02-07-2023
+Kentucky St.,0,Campbellsville,3,02-07-2023
+Reinhardt,3,Fort Valley St.,1,02-07-2023
+Truett-McConnell,1,Benedict,3,02-07-2023
+Sacred Heart,3,American Int'l,1,02-07-2023
+Life (GA),3,Morehouse,0,02-07-2023
+Central St. (OH),1,Thomas More,3,02-07-2023
+Belmont Abbey,2,Erskine,3,02-08-2023
+North Greenville,2,King (TN),3,02-08-2023
+CSUN,3,Princeton,2,02-08-2023
+Merrimack,0,Harvard,3,02-08-2023
+Purdue Fort Wayne,3,Maryville (MO),0,02-08-2023
+UC Irvine,3,Pepperdine,2,02-08-2023
+Wittenberg,0,Charleston (WV),3,02-09-2023
+Webber Int'l,0,Edward Waters,3,02-09-2023
+Queens (NC),3,Tusculum,0,02-09-2023
+Lewis,3,Ball St.,2,02-09-2023
+McKendree,1,Ohio St.,3,02-09-2023
+Rio Grande,0,Charleston (WV),3,02-09-2023
+Benedictine Mesa,3,CUI,2,02-09-2023
+Long Beach St.,0,UCLA,3,02-09-2023
+Missouri S&T,3,Alderson Broaddus,2,02-10-2023
+Queens (NC),1,Lincoln Memorial,3,02-10-2023
+Saint Francis (PA),3,Fairleigh Dickinson,0,02-10-2023
+King's (PA),3,American Int'l,1,02-10-2023
+Mount Olive,0,Belmont Abbey,3,02-10-2023
+CSUN,3,NJIT,2,02-10-2023
+St. Andrews,3,Morehouse,0,02-10-2023
+Barton,0,North Greenville,3,02-10-2023
+Emmanuel (GA),1,King (TN),3,02-10-2023
+Daemen,3,D'Youville,0,02-10-2023
+Limestone,3,Tusculum,0,02-10-2023
+Erskine,0,Lees-McRae,3,02-10-2023
+Loyola Chicago,3,Quincy,0,02-10-2023
+Arizona Christian,0,Grand Canyon,3,02-10-2023
+Purdue Fort Wayne,2,Lindenwood,3,02-10-2023
+Maryville (MO),3,Central St. (OH),0,02-10-2023
+UC Santa Barbara,1,BYU,3,02-10-2023
+UCLA,3,Long Beach St.,1,02-10-2023
+Hawaii,3,Stanford,0,02-10-2023
+Pepperdine,1,UC Irvine,3,02-10-2023
+Master's,3,CUI,1,02-10-2023
+Barton,1,Belmont Abbey,3,02-11-2023
+CSUN,3,Fairleigh Dickinson,0,02-11-2023
+St. Andrews,3,Kentucky St.,0,02-11-2023
+Missouri S&T,3,Central St. (OH),2,02-11-2023
+Emmanuel (GA),1,Lees-McRae,3,02-11-2023
+Limestone,0,Lincoln Memorial,3,02-11-2023
+Erskine,2,King (TN),3,02-11-2023
+Kentucky St.,0,Reinhardt,3,02-11-2023
+Central St. (OH),3,Alderson Broaddus,0,02-11-2023
+St. Francis Brooklyn,0,Princeton,3,02-11-2023
+McKendree,1,Ball St.,3,02-11-2023
+Mount Olive,0,North Greenville,3,02-11-2023
+Lewis,0,Ohio St.,3,02-11-2023
+Penn St.,3,Saint Francis (PA),2,02-11-2023
+Purdue Fort Wayne,3,Quincy,0,02-11-2023
+Loyola Chicago,3,Lindenwood,2,02-11-2023
+Hawaii,3,Stanford,0,02-11-2023
+UC Santa Barbara,1,BYU,3,02-11-2023
+Alderson Broaddus,0,Maryville (MO),3,02-11-2023
+George Mason,,NJIT,,02-12-2023
+King (TN),2,Lees-McRae,3,02-14-2023
+Lincoln Memorial,3,Tusculum,0,02-14-2023
+Belmont Abbey,1,North Greenville,3,02-14-2023
+Westcliff,0,UC San Diego,3,02-14-2023
+Queens (NC),3,Mount Olive,0,02-15-2023
+Limestone,2,Emmanuel (GA),3,02-15-2023
+Lindenwood,3,McKendree,1,02-15-2023
+Maryville (MO),2,Fontbonne,3,02-15-2023
+Quincy,0,Lewis,3,02-15-2023
+Grand Canyon,3,Southern California,1,02-15-2023
+Fort Valley St.,3,Lees-McRae,1,02-16-2023
+King (TN),1,Belmont Abbey,3,02-16-2023
+Ball St.,1,Loyola Chicago,3,02-16-2023
+Ohio St.,3,Purdue Fort Wayne,1,02-16-2023
+Benedictine (IL),0,CSUN,3,02-16-2023
+CarolinaU,1,Alderson Broaddus,3,02-17-2023
+CarolinaU,0,Alderson Broaddus,3,02-17-2023
+Fairleigh Dickinson,0,LIU,3,02-17-2023
+Central St. (OH),3,Adrian,1,02-17-2023
+Thomas More,3,Kentucky St.,0,02-17-2023
+Fort Valley St.,1,Belmont Abbey,3,02-17-2023
+Daemen,3,Merrimack,2,02-17-2023
+Emmanuel (GA),3,Mount Olive,1,02-17-2023
+D'Youville,0,Sacred Heart,3,02-17-2023
+Erskine,3,Barton,1,02-17-2023
+Harvard,0,Charleston (WV),3,02-17-2023
+Princeton,0,Penn St.,3,02-17-2023
+Quincy,0,McKendree,3,02-17-2023
+Lindenwood,3,Lewis,2,02-17-2023
+Pepperdine,3,Stanford,0,02-17-2023
+Grand Canyon,3,Southern California,1,02-17-2023
+NJIT,0,Long Beach St.,3,02-17-2023
+BYU,0,UCLA,3,02-17-2023
+CUI,1,Hawaii,3,02-17-2023
+Central St. (OH),3,Thiel,1,02-18-2023
+Erskine,3,Mount Olive,1,02-18-2023
+Fort Valley St.,1,Limestone,3,02-18-2023
+Midway,3,Kentucky St.,0,02-18-2023
+Emmanuel (GA),1,Barton,3,02-18-2023
+Harvard,0,Charleston (WV),3,02-18-2023
+Lees-McRae,1,North Greenville,3,02-18-2023
+Central St. (OH),3,Maranatha Baptist,0,02-18-2023
+Princeton,0,Penn St.,3,02-18-2023
+King (TN),0,George Mason,3,02-18-2023
+FDU,1,St. Francis Brooklyn,3,02-18-2023
+Ball St.,3,Purdue Fort Wayne,2,02-18-2023
+Saint Francis (PA),2,LIU,3,02-18-2023
+D'Youville,2,Merrimack,3,02-18-2023
+Ohio St.,0,Loyola Chicago,3,02-18-2023
+BYU,0,UCLA,3,02-18-2023
+Pepperdine,2,Stanford,3,02-18-2023
+NJIT,0,Long Beach St.,3,02-18-2023
+CUI,0,Hawaii,3,02-18-2023
+Daemen,3,Sacred Heart,2,02-19-2023
+North Greenville,1,Erskine,3,02-21-2023
+Emmanuel (GA),0,Belmont Abbey,3,02-21-2023
+Barton,1,Mount Olive,3,02-21-2023
+Mo. Baptist,3,Maryville (MO),1,02-21-2023
+UC San Diego,1,CUI,3,02-21-2023
+Reinhardt,3,Benedict,0,02-22-2023
+Purdue Fort Wayne,3,McKendree,1,02-22-2023
+Loyola Chicago,3,Lewis,1,02-22-2023
+Grand Canyon,3,Pepperdine,2,02-22-2023
+Westcliff,0,CSUN,3,02-22-2023
+Queens (NC),3,Belmont Abbey,1,02-23-2023
+D'Youville,1,Daemen,3,02-23-2023
+Maryville (MO),3,Kentucky St.,0,02-23-2023
+Central St. (OH),1,Edward Waters,3,02-23-2023
+LIU,0,Hawaii,3,02-23-2023
+Grand Canyon,2,Pepperdine,3,02-24-2023
+Sacred Heart,0,Saint Francis (PA),3,02-24-2023
+Limestone,0,Queens (NC),3,02-24-2023
+Tusculum,2,Fort Valley St.,3,02-24-2023
+Penn St.,3,NJIT,0,02-24-2023
+Kentucky St.,0,Mt. St. Joseph,3,02-24-2023
+Benedict,3,Morehouse,0,02-24-2023
+Merrimack,2,FDU,3,02-24-2023
+Charleston (WV),3,George Mason,2,02-24-2023
+Lees-McRae,0,Barton,3,02-24-2023
+King (TN),3,Mount Olive,0,02-24-2023
+Harvard,1,Princeton,3,02-24-2023
+Lewis,1,Purdue Fort Wayne,3,02-24-2023
+Ohio St.,3,Quincy,0,02-24-2023
+Ball St.,3,Lindenwood,2,02-24-2023
+CSUN,3,UC San Diego,1,02-24-2023
+BYU,3,CUI,0,02-24-2023
+UCLA,3,UC Irvine,1,02-24-2023
+Stanford,3,Southern California,1,02-24-2023
+Truett-McConnell,,Alderson Broaddus,,02-24-2023
+Widener,1,American Int'l,3,02-25-2023
+Edward Waters,3,Kentucky St.,0,02-25-2023
+Edward Waters,3,Kentucky St.,0,02-25-2023
+North Greenville,3,Emmanuel (GA),2,02-25-2023
+Lees-McRae,3,Mount Olive,1,02-25-2023
+King (TN),1,Barton,3,02-25-2023
+Tusculum,3,Morehouse,0,02-25-2023
+Webber Int'l,3,Alderson Broaddus,0,02-25-2023
+Lincoln Memorial,3,Fort Valley St.,0,02-25-2023
+Harvard,1,Princeton,3,02-25-2023
+Charleston (WV),0,George Mason,3,02-25-2023
+St. Francis Brooklyn,3,D'Youville,0,02-25-2023
+Maryville (MO),3,UHSP,0,02-25-2023
+Ball St.,3,Quincy,0,02-25-2023
+McKendree,1,Loyola Chicago,3,02-25-2023
+Sacred Heart,3,FDU,1,02-25-2023
+Central St. (OH),3,Benedict,0,02-25-2023
+Merrimack,0,Saint Francis (PA),3,02-25-2023
+Penn St.,3,NJIT,0,02-25-2023
+Erskine,3,Belmont Abbey,1,02-25-2023
+Ohio St.,2,Lindenwood,3,02-25-2023
+BYU,3,CUI,2,02-25-2023
+LIU,0,Hawaii,3,02-25-2023
+Milligan,,Alderson Broaddus,,02-25-2023
+St. Francis Brooklyn,0,Daemen,3,02-26-2023
+Stanford,2,Southern California,3,02-26-2023
+UC Irvine,1,UCLA,3,02-26-2023
+MSOE,0,Missouri S&T,3,02-27-2023
+Maryville (MO),3,MSOE,1,02-28-2023
+Benedict,1,Erskine,3,02-28-2023
+Limestone,3,Belmont Abbey,0,02-28-2023
+Tusculum,3,Lees-McRae,0,02-28-2023
+Warner,3,Edward Waters,1,03-01-2023
+Central St. (OH),0,Ball St.,3,03-01-2023
+MSOE,1,Quincy,3,03-01-2023
+CUI,0,UCLA,3,03-01-2023
+Vanguard,1,UC Santa Barbara,3,03-01-2023
+Queens (NC),3,Lees-McRae,0,03-02-2023
+Lindenwood,3,Quincy,0,03-02-2023
+Pepperdine,1,Hawaii,3,03-02-2023
+Morehouse,0,Kentucky St.,3,03-03-2023
+Fort Valley St.,0,Central St. (OH),3,03-03-2023
+Alderson Broaddus,1,D'Youville,3,03-03-2023
+St. Francis Brooklyn,2,Harvard,3,03-03-2023
+FDU,0,Princeton,3,03-03-2023
+LIU,3,American Int'l,0,03-03-2023
+North Greenville,0,George Mason,3,03-03-2023
+CSUN,3,Stanford,0,03-03-2023
+Menlo,1,Southern California,3,03-03-2023
+BYU,0,Grand Canyon,3,03-03-2023
+Lewis,3,McKendree,2,03-03-2023
+Emmanuel (GA),3,Maryville (MO),1,03-03-2023
+Ball St.,1,Long Beach St.,3,03-03-2023
+UCLA,3,CUI,0,03-03-2023
+UC San Diego,1,UC Santa Barbara,3,03-03-2023
+Morehouse,0,Central St. (OH),3,03-04-2023
+Randolph-Macon,0,Lees-McRae,3,03-04-2023
+NJIT,3,Merrimack,0,03-04-2023
+Fort Valley St.,3,Kentucky St.,0,03-04-2023
+Emmanuel (GA),0,Missouri S&T,3,03-04-2023
+Penn St.,3,CUI,0,03-04-2023
+LIU,1,Harvard,3,03-04-2023
+Barton,1,George Mason,3,03-04-2023
+UC Irvine,3,Stanford,0,03-04-2023
+Charleston (WV),3,Ohio St.,1,03-04-2023
+BYU,2,Grand Canyon,3,03-04-2023
+Lewis,3,Maryville (MO),0,03-04-2023
+Purdue Fort Wayne,2,Loyola Chicago,3,03-04-2023
+Pepperdine,0,Hawaii,3,03-04-2023
+St. Francis Brooklyn,,American Int'l,,03-04-2023
+Ball St.,3,UC San Diego,2,03-05-2023
+Penn St.,3,UC Irvine,2,03-05-2023
+Cornerstone,3,Quincy,2,03-06-2023
+Thomas More,0,Edward Waters,3,03-06-2023
+UHSP,0,Maryville (MO),3,03-06-2023
+Mt. Vernon Naz.,3,Kentucky St.,1,03-07-2023
+Kentucky St.,2,Wittenberg,3,03-07-2023
+Queens (NC),0,Loyola Chicago,3,03-07-2023
+North Greenville,,Lees-McRae,,03-07-2023
+LIU,3,D'Youville,1,03-08-2023
+Queens (NC),0,Lewis,3,03-08-2023
+Ball St.,0,Grand Canyon,3,03-08-2023
+Fontbonne,2,Maryville (MO),3,03-08-2023
+LIU,0,Daemen,3,03-09-2023
+Erskine,3,Kentucky St.,0,03-09-2023
+Penn St.,2,UCLA,3,03-09-2023
+St. Francis Brooklyn,3,Saint Francis (PA),0,03-09-2023
+Quincy,3,Missouri S&T,0,03-09-2023
+Southern California,0,Pepperdine,3,03-09-2023
+Kan. Wesleyan,1,Missouri S&T,3,03-10-2023
+Benedict,0,Central St. (OH),3,03-10-2023
+Merrimack,2,Sacred Heart,3,03-10-2023
+FDU,0,Saint Francis (PA),3,03-10-2023
+Erskine,2,Lewis,3,03-10-2023
+Emmanuel (GA),0,Lincoln Memorial,3,03-10-2023
+North Greenville,3,Tusculum,0,03-10-2023
+D'Youville,3,American Int'l,1,03-10-2023
+Belmont Abbey,3,Morehouse,0,03-10-2023
+Mount Olive,2,Charleston (WV),3,03-10-2023
+Limestone,0,George Mason,3,03-10-2023
+Loyola Chicago,3,McKendree,2,03-10-2023
+Olivet Nazarene,0,Grand Canyon,3,03-10-2023
+Quincy,3,Maryville (MO),1,03-10-2023
+Ohio St.,1,BYU,3,03-10-2023
+Long Beach St.,3,UC Santa Barbara,1,03-10-2023
+UCLA,3,Purdue Fort Wayne,0,03-10-2023
+UC San Diego,0,UC Irvine,3,03-10-2023
+Purdue Fort Wayne,0,Hawaii,3,03-10-2023
+D'Youville,3,American Int'l,0,03-11-2023
+Benedict,3,Kentucky St.,1,03-11-2023
+Maryville (MO),0,Lindenwood,3,03-11-2023
+Emmanuel (GA),2,Tusculum,3,03-11-2023
+Limestone,1,George Mason,3,03-11-2023
+Benedict,3,Kentucky St.,0,03-11-2023
+Princeton,3,NJIT,2,03-11-2023
+Mount Olive,0,Charleston (WV),3,03-11-2023
+Belmont Abbey,3,Fort Valley St.,0,03-11-2023
+Ohio St.,2,BYU,3,03-11-2023
+UC Irvine,3,UC San Diego,0,03-11-2023
+UC Santa Barbara,2,Long Beach St.,3,03-11-2023
+Pepperdine,3,Southern California,1,03-11-2023
+Purdue Fort Wayne,0,Penn St.,3,03-11-2023
+Penn St.,3,Hawaii,1,03-11-2023
+UCLA,1,Hawaii,3,03-12-2023
+Reinhardt,0,North Greenville,3,03-13-2023
+Fort Valley St.,3,Morehouse,0,03-14-2023
+St. Francis Brooklyn,1,LIU,3,03-14-2023
+Belmont Abbey,2,King (TN),3,03-14-2023
+Erskine,3,Emmanuel (GA),0,03-14-2023
+Harvard,0,UC Santa Barbara,3,03-14-2023
+NJIT,3,North Greenville,2,03-14-2023
+North Greenville,,Lees-McRae,,03-14-2023
+Mo. Baptist,0,Missouri S&T,3,03-15-2023
+Ohio St.,0,Ball St.,3,03-15-2023
+Edward Waters,0,Limestone,3,03-15-2023
+Harvard,0,Pepperdine,3,03-15-2023
+Princeton,0,Grand Canyon,3,03-15-2023
+Daemen,0,CUI,3,03-15-2023
+LIU,3,St. Francis Brooklyn,2,03-16-2023
+NJIT,1,Saint Francis (PA),3,03-16-2023
+Saint Francis (PA),3,Queens (NC),1,03-16-2023
+Charleston (WV),1,Loyola Chicago,3,03-16-2023
+FDU,2,Belmont Abbey,3,03-16-2023
+UC San Diego,3,CSUN,0,03-16-2023
+UC Irvine,3,UC Santa Barbara,2,03-16-2023
+Fort Valley St.,1,Tusculum,3,03-17-2023
+NJIT,0,Queens (NC),3,03-17-2023
+Edward Waters,3,Benedict,0,03-17-2023
+American Int'l,1,Merrimack,3,03-17-2023
+Princeton,0,Grand Canyon,3,03-17-2023
+Charleston (WV),3,Purdue Fort Wayne,0,03-17-2023
+Mount Olive,3,Erskine,1,03-17-2023
+Barton,2,Emmanuel (GA),3,03-17-2023
+FDU,1,George Mason,3,03-17-2023
+Daemen,0,Pepperdine,3,03-17-2023
+UCLA,3,Stanford,0,03-17-2023
+UC Santa Barbara,0,UC Irvine,3,03-17-2023
+Long Beach St.,3,Hawaii,0,03-18-2023
+Carlow,0,Alderson Broaddus,3,03-18-2023
+Thomas More,0,Central St. (OH),3,03-18-2023
+St. Francis Brooklyn,3,Randolph-Macon,1,03-18-2023
+Reinhardt,0,Limestone,3,03-18-2023
+Fort Valley St.,0,Lincoln Memorial,3,03-18-2023
+Barton,1,Erskine,3,03-18-2023
+Mount Olive,3,Emmanuel (GA),1,03-18-2023
+Lees-McRae,0,Belmont Abbey,3,03-18-2023
+Morehouse,0,Benedict,3,03-18-2023
+Quincy,0,Lindenwood,3,03-18-2023
+Elmira,1,D'Youville,3,03-18-2023
+St. Francis Brooklyn,3,Kean,0,03-18-2023
+FDU,0,George Mason,3,03-18-2023
+American Int'l,0,LIU,3,03-18-2023
+Ball St.,2,Ohio St.,3,03-18-2023
+Loyola Chicago,2,Purdue Fort Wayne,3,03-18-2023
+Saint Francis (PA),0,Penn St.,3,03-18-2023
+McKendree,0,Lewis,3,03-18-2023
+UCLA,3,Stanford,0,03-18-2023
+Daemen,3,CSUN,2,03-18-2023
+Sacred Heart,1,Merrimack,3,03-18-2023
+Long Beach St.,0,Hawaii,3,03-19-2023
+Benedict,0,Reinhardt,3,03-20-2023
+Alderson Broaddus,0,Charleston (WV),3,03-21-2023
+George Mason,0,NJIT,3,03-21-2023
+Edward Waters,3,Morehouse,0,03-21-2023
+Ohio St.,3,Penn St.,2,03-21-2023
+King (TN),1,North Greenville,3,03-21-2023
+Maryville (MO),0,Mo. Baptist,3,03-21-2023
+Rivier,3,American Int'l,1,03-22-2023
+Lees-McRae,1,Tusculum,3,03-22-2023
+Belmont Abbey,3,Limestone,2,03-22-2023
+Sacred Heart,3,Harvard,2,03-22-2023
+Morehouse,,Life (GA),,03-22-2023
+King (TN),3,Emmanuel (GA),1,03-23-2023
+McKendree,2,Purdue Fort Wayne,3,03-23-2023
+Lewis,0,Loyola Chicago,3,03-23-2023
+Judson (IL),0,Missouri S&T,3,03-24-2023
+Alderson Broaddus,3,Carlow,0,03-24-2023
+Saint Francis (PA),3,D'Youville,0,03-24-2023
+King (TN),2,Erskine,3,03-24-2023
+LIU,3,Merrimack,1,03-24-2023
+Edward Waters,2,Webber Int'l,3,03-24-2023
+FDU,0,Daemen,3,03-24-2023
+Lincoln Memorial,3,Queens (NC),1,03-24-2023
+Fort Valley St.,2,Benedict,3,03-24-2023
+Lees-McRae,2,Emmanuel (GA),3,03-24-2023
+Princeton,3,George Mason,1,03-24-2023
+Belmont Abbey,3,Barton,2,03-24-2023
+North Greenville,1,Mount Olive,3,03-24-2023
+Lindenwood,1,Ohio St.,3,03-24-2023
+St. Francis Brooklyn,0,Sacred Heart,3,03-24-2023
+American Int'l,0,Harvard,3,03-24-2023
+Tusculum,1,Limestone,3,03-24-2023
+Quincy,1,Ball St.,3,03-24-2023
+Thomas More,1,Maryville (MO),3,03-24-2023
+CUI,3,Grand Canyon,2,03-24-2023
+Pepperdine,2,BYU,3,03-24-2023
+Hawaii,3,CSUN,0,03-24-2023
+Southern California,0,Long Beach St.,3,03-24-2023
+Alderson Broaddus,,Carlow,,03-24-2023
+Thomas More,1,Missouri S&T,3,03-25-2023
+Tusculum,1,Queens (NC),3,03-25-2023
+Lees-McRae,3,Erskine,1,03-25-2023
+Belmont Abbey,3,Mount Olive,1,03-25-2023
+North Greenville,3,Barton,2,03-25-2023
+Benedict,0,Edward Waters,3,03-25-2023
+Lincoln Memorial,3,Limestone,0,03-25-2023
+Thiel,2,Alderson Broaddus,3,03-25-2023
+Saint Francis (PA),3,Daemen,2,03-25-2023
+FDU,2,D'Youville,3,03-25-2023
+Princeton,3,Loyola Chicago,1,03-25-2023
+Alderson Broaddus,1,Geneva,3,03-25-2023
+LIU,3,Sacred Heart,1,03-25-2023
+Purdue Fort Wayne,1,Lewis,3,03-25-2023
+Lindenwood,0,Ball St.,3,03-25-2023
+Quincy,0,Ohio St.,3,03-25-2023
+Judson (IL),3,Maryville (MO),2,03-25-2023
+Pepperdine,2,BYU,3,03-25-2023
+CUI,0,Grand Canyon,3,03-25-2023
+Hawaii,3,CSUN,0,03-25-2023
+Long Beach St.,3,Southern California,1,03-25-2023
+Kentucky St.,,Central St. (OH),,03-25-2023
+St. Francis Brooklyn,,Merrimack,,03-25-2023
+Lincoln Memorial,3,Emmanuel (GA),0,03-26-2023
+Fort Valley St.,0,Edward Waters,3,03-26-2023
+Loyola Chicago,3,George Mason,2,03-26-2023
+Barton,2,Queens (NC),3,03-28-2023
+Benedict,3,CarolinaU,2,03-28-2023
+American Int'l,0,Rivier,3,03-28-2023
+North Greenville,3,Lees-McRae,1,03-28-2023
+Edward Waters,3,Warner,0,03-29-2023
+Emmanuel (GA),0,Limestone,3,03-29-2023
+Morehouse,0,Fort Valley St.,3,03-30-2023
+Quincy,1,Purdue Fort Wayne,3,03-30-2023
+Ball St.,3,McKendree,0,03-30-2023
+Ohio St.,3,Lewis,0,03-30-2023
+Southern California,1,BYU,3,03-30-2023
+Alderson Broaddus,0,Queens (NC),3,03-30-2023
+Daemen,3,LIU,2,03-31-2023
+D'Youville,3,St. Francis Brooklyn,2,03-31-2023
+Belmont Abbey,0,Queens (NC),3,03-31-2023
+Edward Waters,3,Central St. (OH),0,03-31-2023
+Saint Francis (PA),3,Sacred Heart,0,03-31-2023
+FDU,1,Merrimack,3,03-31-2023
+NJIT,1,Charleston (WV),3,03-31-2023
+Barton,0,King (TN),3,03-31-2023
+Penn St.,3,Harvard,0,03-31-2023
+Alderson Broaddus,0,Lincoln Memorial,3,03-31-2023
+Kentucky St.,0,Limestone,3,03-31-2023
+Mount Olive,3,Lees-McRae,0,03-31-2023
+Lindenwood,0,Loyola Chicago,3,03-31-2023
+UCLA,3,Grand Canyon,1,03-31-2023
+Southern California,1,BYU,3,03-31-2023
+Long Beach St.,3,UC San Diego,0,03-31-2023
+CUI,0,Stanford,3,03-31-2023
+CSUN,0,UC Irvine,3,03-31-2023
+Hawaii,3,UC Santa Barbara,0,03-31-2023
+Alderson Broaddus,2,Tusculum,3,04-01-2023
+Vassar,3,American Int'l,0,04-01-2023
+Barton,3,Lees-McRae,2,04-01-2023
+Tusculum,0,Lincoln Memorial,3,04-01-2023
+Mount Olive,2,King (TN),3,04-01-2023
+Erskine,0,North Greenville,3,04-01-2023
+Penn St.,3,Harvard,0,04-01-2023
+Daemen,3,St. Francis Brooklyn,2,04-01-2023
+NJIT,2,Charleston (WV),3,04-01-2023
+FDU,3,Sacred Heart,2,04-01-2023
+George Mason,3,Princeton,0,04-01-2023
+Saint Francis (PA),3,Merrimack,1,04-01-2023
+Ball St.,3,Lewis,2,04-01-2023
+Quincy,2,Loyola Chicago,3,04-01-2023
+Ohio St.,3,McKendree,1,04-01-2023
+UCLA,3,Grand Canyon,0,04-01-2023
+D'Youville,1,LIU,3,04-01-2023
+Lindenwood,1,Purdue Fort Wayne,3,04-01-2023
+Belmont Abbey,3,Emmanuel (GA),2,04-01-2023
+Cal Lutheran,0,Pepperdine,3,04-01-2023
+UC Irvine,3,CSUN,0,04-01-2023
+UC San Diego,0,Long Beach St.,3,04-01-2023
+CUI,0,Stanford,3,04-01-2023
+Hawaii,3,UC Santa Barbara,0,04-01-2023
+Mount Olive,0,Queens (NC),3,04-04-2023
+Charleston (WV),3,Central St. (OH),0,04-04-2023
+Limestone,3,Erskine,1,04-04-2023
+American Int'l,0,Sacred Heart,3,04-04-2023
+Missouri S&T,3,Maryville (MO),2,04-04-2023
+Kentucky St.,0,Fort Valley St.,3,04-05-2023
+Belmont Abbey,1,Lees-McRae,3,04-05-2023
+Emmanuel (GA),0,North Greenville,3,04-05-2023
+Central St. (OH),3,Fort Valley St.,2,04-06-2023
+Kentucky St.,3,Morehouse,1,04-06-2023
+Loyola Chicago,0,Ball St.,3,04-06-2023
+Queens (NC),3,Limestone,0,04-06-2023
+Purdue Fort Wayne,0,Ohio St.,3,04-06-2023
+McKendree,2,Quincy,3,04-06-2023
+Lewis,3,Lindenwood,0,04-06-2023
+Southern California,0,UCLA,3,04-06-2023
+Pepperdine,1,CUI,3,04-06-2023
+LIU,3,FDU,1,04-07-2023
+St. Francis Brooklyn,0,Saint Francis (PA),3,04-07-2023
+Sacred Heart,1,Daemen,3,04-07-2023
+Harvard,3,NJIT,2,04-07-2023
+American Int'l,0,Endicott,3,04-07-2023
+Central St. (OH),3,Morehouse,0,04-07-2023
+Lincoln Memorial,3,Mount Olive,1,04-07-2023
+Tusculum,2,Barton,3,04-07-2023
+Princeton,3,Charleston (WV),0,04-07-2023
+Penn St.,3,George Mason,0,04-07-2023
+Merrimack,1,D'Youville,3,04-07-2023
+UC Santa Barbara,2,UC San Diego,3,04-07-2023
+Long Beach St.,3,CSUN,2,04-07-2023
+Grand Canyon,0,Stanford,3,04-07-2023
+UC Irvine,1,Hawaii,3,04-08-2023
+Merrimack,0,Daemen,3,04-08-2023
+Lincoln Memorial,3,Barton,0,04-08-2023
+Tusculum,1,Mount Olive,3,04-08-2023
+Princeton,3,Charleston (WV),1,04-08-2023
+Sacred Heart,3,D'Youville,1,04-08-2023
+LIU,0,Saint Francis (PA),3,04-08-2023
+Harvard,3,NJIT,2,04-08-2023
+St. Francis Brooklyn,3,FDU,1,04-08-2023
+Penn St.,3,George Mason,0,04-08-2023
+Lewis,3,Quincy,1,04-08-2023
+Loyola Chicago,0,Ohio St.,3,04-08-2023
+McKendree,1,Lindenwood,3,04-08-2023
+Purdue Fort Wayne,0,Ball St.,3,04-08-2023
+CUI,0,Pepperdine,3,04-08-2023
+Grand Canyon,2,Stanford,3,04-08-2023
+CSUN,0,Long Beach St.,3,04-08-2023
+UCLA,3,Southern California,0,04-08-2023
+UC Irvine,0,Hawaii,3,04-09-2023
+Edward Waters,3,Fort Valley St.,2,04-13-2023
+CarolinaU,2,Benedict,3,04-13-2023
+Emmanuel (GA),0,Erskine,3,04-13-2023
+Lees-McRae,3,King (TN),1,04-13-2023
+North Greenville,3,Belmont Abbey,1,04-13-2023
+Mount Olive,3,Barton,0,04-13-2023
+UCLA,3,Pepperdine,1,04-13-2023
+Southern California,3,CUI,2,04-13-2023
+Limestone,3,Alderson Broaddus,0,04-14-2023
+Maryville (MO),3,Tusculum,2,04-14-2023
+Limestone,2,Queens (NC),3,04-14-2023
+Sacred Heart,3,St. Francis Brooklyn,1,04-14-2023
+Daemen,1,FDU,3,04-14-2023
+Morehouse,0,Edward Waters,3,04-14-2023
+D'Youville,0,Saint Francis (PA),3,04-14-2023
+Central St. (OH),3,Kentucky St.,0,04-14-2023
+George Mason,3,Harvard,0,04-14-2023
+NJIT,1,Princeton,3,04-14-2023
+Charleston (WV),0,Penn St.,3,04-14-2023
+Merrimack,0,LIU,3,04-14-2023
+Maryville (MO),0,Lincoln Memorial,3,04-14-2023
+Stanford,1,BYU,3,04-14-2023
+UC Santa Barbara,3,CSUN,0,04-14-2023
+UC Irvine,0,Long Beach St.,3,04-14-2023
+UC San Diego,1,Hawaii,3,04-15-2023
+Maryville (MO),1,Limestone,3,04-15-2023
+George Mason,3,Harvard,1,04-15-2023
+D'Youville,0,FDU,3,04-15-2023
+Charleston (WV),1,Penn St.,3,04-15-2023
+Daemen,1,Saint Francis (PA),3,04-15-2023
+Merrimack,3,St. Francis Brooklyn,1,04-15-2023
+Queens (NC),0,Lincoln Memorial,3,04-15-2023
+Lindenwood,0,Ohio St.,3,04-15-2023
+Benedict,3,Fort Valley St.,2,04-15-2023
+Quincy,0,Ball St.,3,04-15-2023
+Sacred Heart,3,LIU,2,04-15-2023
+Long Beach St.,3,UC Irvine,2,04-15-2023
+Purdue Fort Wayne,1,Lewis,3,04-15-2023
+McKendree,3,Loyola Chicago,2,04-15-2023
+Stanford,0,BYU,3,04-15-2023
+CUI,0,Southern California,3,04-15-2023
+CSUN,1,UC Santa Barbara,3,04-15-2023
+Pepperdine,1,UCLA,3,04-15-2023
+Alderson Broaddus,3,Tusculum,1,04-15-2023
+UC San Diego,0,Hawaii,3,04-16-2023
+Lees-McRae,0,Belmont Abbey,3,04-18-2023
+Mount Olive,2,King (TN),3,04-18-2023
+Merrimack,1,LIU,3,04-19-2023
+NJIT,3,Charleston (WV),2,04-19-2023
+CUI,1,BYU,3,04-19-2023
+Harvard,2,George Mason,3,04-19-2023
+St. Francis Brooklyn,0,Sacred Heart,3,04-19-2023
+Lewis,0,Ball St.,3,04-19-2023
+McKendree,1,Ohio St.,3,04-19-2023
+Southern California,1,Stanford,3,04-19-2023
+Pepperdine,0,Grand Canyon,3,04-19-2023
+Kentucky St.,0,Fort Valley St.,3,04-20-2023
+Morehouse,0,Benedict,3,04-20-2023
+Fort Valley St.,0,Edward Waters,3,04-20-2023
+LIU,3,Daemen,0,04-20-2023
+NJIT,1,Princeton,3,04-20-2023
+George Mason,1,Penn St.,3,04-20-2023
+Benedict,1,Central St. (OH),3,04-20-2023
+Sacred Heart,0,Saint Francis (PA),3,04-20-2023
+Grand Canyon,0,UCLA,3,04-20-2023
+UC San Diego,2,UC Santa Barbara,3,04-20-2023
+BYU,2,Stanford,3,04-20-2023
+CSUN,0,UC Irvine,3,04-20-2023
+Central St. (OH),1,Edward Waters,3,04-21-2023
+Belmont Abbey,0,North Greenville,3,04-21-2023
+Erskine,0,King (TN),3,04-21-2023
+UC Santa Barbara,0,Hawaii,3,04-21-2023
+Long Beach St.,0,UC Irvine,3,04-21-2023
+LIU,3,Saint Francis (PA),0,04-22-2023
+North Greenville,2,King (TN),3,04-22-2023
+Princeton,0,Penn St.,3,04-22-2023
+Ohio St.,3,Ball St.,1,04-22-2023
+UCLA,3,Stanford,0,04-22-2023
+Hawaii,3,UC Irvine,1,04-22-2023
+King (TN),0,Ohio St.,3,04-30-2023
+Grand Canyon,1,Long Beach St.,3,05-02-2023
+Ohio St.,1,Penn St.,3,05-02-2023
+Long Beach St.,0,UCLA,3,05-04-2023
+Penn St.,2,Hawaii,3,05-04-2023
+Hawaii,1,UCLA,3,05-06-2023
