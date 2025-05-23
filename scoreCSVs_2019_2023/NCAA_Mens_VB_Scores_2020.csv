@@ -1,0 +1,644 @@
+Team 1,Team 1 Score,Team 2,Team 2 Score,Date
+UCLA,3,Daemen,0,01-02-2020
+King (TN),1,Loyola Chicago,3,01-02-2020
+Princeton,2,Southern California,3,01-02-2020
+BYU,3,Loyola Chicago,1,01-03-2020
+North Greenville,3,Urbana,1,01-03-2020
+King (TN),0,Lewis,3,01-03-2020
+Charleston (WV),0,Hawaii,3,01-03-2020
+Menlo,0,Stanford,3,01-03-2020
+UC Santa Cruz,0,Stanford,3,01-04-2020
+Charleston (WV),0,Hawaii,3,01-04-2020
+North Greenville,0,Ohio St.,3,01-04-2020
+UCLA,3,George Mason,0,01-04-2020
+BYU,3,Lewis,1,01-04-2020
+Cal Lutheran,0,Pepperdine,3,01-05-2020
+UCLA,3,Princeton,2,01-06-2020
+St. Katherine,1,Concordia (CA),3,01-06-2020
+Urbana,0,Ohio St.,3,01-07-2020
+Mount Olive,0,Lincoln Memorial,3,01-07-2020
+Stanford,2,Saint Francis (PA),3,01-08-2020
+Concordia (CA),0,UC Santa Barbara,3,01-09-2020
+McKendree,3,CSUN,2,01-09-2020
+Mount Olive,3,Lindenwood (MO),0,01-09-2020
+Belmont Abbey,3,Indiana Tech,0,01-09-2020
+Lewis,3,UC Irvine,2,01-09-2020
+Emmanuel (GA),0,Hawaii,3,01-09-2020
+Loyola Chicago,2,UC San Diego,3,01-09-2020
+Saint Francis (PA),0,Ohio St.,3,01-09-2020
+Benedictine Mesa,0,Long Beach St.,3,01-09-2020
+Harvard,3,Grand Canyon,0,01-09-2020
+McKendree,1,Long Beach St.,3,01-10-2020
+Mount Olive,3,Quincy,0,01-10-2020
+NJIT,1,Stanford,3,01-10-2020
+Benedictine Mesa,0,UC Santa Barbara,3,01-10-2020
+St. Francis Brooklyn,0,Sacred Heart,3,01-10-2020
+Harvard,0,Hawaii,3,01-10-2020
+Loyola Chicago,1,UC Irvine,3,01-10-2020
+Urbana,0,King (TN),3,01-10-2020
+Southern California,0,George Mason,3,01-10-2020
+Penn St.,0,BYU,3,01-10-2020
+Lincoln Memorial,1,Lindenwood (MO),3,01-10-2020
+Grand Canyon,3,Emmanuel (GA),0,01-10-2020
+Queens (NC),1,Purdue Fort Wayne,3,01-10-2020
+Belmont Abbey,0,Ball St.,3,01-10-2020
+Princeton,3,Charleston (WV),0,01-10-2020
+Concordia (CA),3,CSUN,2,01-10-2020
+Urbana,0,Tusculum,3,01-11-2020
+Belmont Abbey,0,Purdue Fort Wayne,3,01-11-2020
+Benedictine Mesa,0,CSUN,3,01-11-2020
+Mount Olive,3,Urbana,0,01-11-2020
+Princeton,3,Charleston (WV),0,01-11-2020
+Emmanuel (GA),0,Harvard,3,01-11-2020
+Penn St.,0,BYU,3,01-11-2020
+Southern California,0,NJIT,3,01-11-2020
+Concordia (CA),2,Long Beach St.,3,01-11-2020
+Mount Olive,3,Tusculum,0,01-11-2020
+Lincoln Memorial,3,Quincy,0,01-11-2020
+Lewis,3,UC San Diego,0,01-11-2020
+Grand Canyon,0,Hawaii,3,01-11-2020
+Queens (NC),0,Ball St.,3,01-11-2020
+Stanford,3,George Mason,0,01-11-2020
+McKendree,0,UC Santa Barbara,3,01-11-2020
+Lincoln Memorial,3,Tusculum,0,01-14-2020
+Wittenberg,3,Urbana,2,01-14-2020
+Pepperdine,3,Daemen,0,01-14-2020
+Vassar,0,UC San Diego,3,01-15-2020
+Purdue Fort Wayne,3,CSUN,0,01-15-2020
+Pepperdine,3,Harvard,1,01-15-2020
+Harvard,3,Daemen,1,01-16-2020
+Sacred Heart,,Springfield,,01-16-2020
+Concordia (CA),3,Southern California,0,01-16-2020
+Belmont Abbey,1,Queens (NC),3,01-16-2020
+Lincoln Memorial,1,Ohio St.,3,01-16-2020
+Park (AZ),0,Grand Canyon,3,01-17-2020
+Mo. Baptist,3,Quincy,2,01-17-2020
+Tusculum,1,North Greenville,3,01-17-2020
+Purdue Fort Wayne,0,UC Santa Barbara,3,01-17-2020
+King (TN),0,Ohio St.,3,01-17-2020
+NJIT,2,McKendree,3,01-17-2020
+Erskine,1,Charleston (WV),3,01-17-2020
+Southern California,1,Long Beach St.,3,01-17-2020
+Saint Francis (PA),1,Lindenwood (MO),3,01-17-2020
+Stanford,1,UC Irvine,3,01-17-2020
+BYU,3,Mount Olive,0,01-17-2020
+UCLA,0,UC San Diego,3,01-17-2020
+Ball St.,3,CSUN,2,01-17-2020
+Hawaii,3,Lewis,1,01-17-2020
+Penn St.,3,Loyola Chicago,0,01-17-2020
+Lees-McRae,1,Queens (NC),3,01-17-2020
+Pepperdine,1,George Mason,3,01-17-2020
+Baruch,0,St. Francis Brooklyn,3,01-18-2020
+BYU,3,Mount Olive,0,01-18-2020
+Tusculum,0,Belmont Abbey,3,01-18-2020
+Hawaii,3,Loyola Chicago,1,01-18-2020
+Benedictine Mesa,0,Quincy,3,01-18-2020
+UC San Diego,1,Grand Canyon,3,01-18-2020
+Penn St.,3,Lewis,2,01-18-2020
+Ball St.,0,UC Santa Barbara,3,01-18-2020
+Limestone,3,Charleston (WV),2,01-18-2020
+Saint Francis (PA),0,McKendree,3,01-18-2020
+NJIT,3,Lindenwood (MO),1,01-18-2020
+Erskine,3,Bluefield Col.,0,01-18-2020
+Campbellsville,3,Quincy,1,01-19-2020
+Hawaii,3,Lincoln Memorial,0,01-20-2020
+Belmont Abbey,0,Mount Olive,3,01-21-2020
+Alderson Broaddus,0,Geneva,3,01-21-2020
+Emmanuel (GA),0,North Greenville,3,01-21-2020
+Erskine,0,Limestone,3,01-21-2020
+Hawaii,3,King (TN),0,01-21-2020
+Queens (NC),2,Barton,3,01-22-2020
+BYU,3,UC Irvine,1,01-22-2020
+Concordia (CA),,Vanguard,,01-22-2020
+Purdue Fort Wayne,0,NJIT,3,01-23-2020
+UC San Diego,3,Lindenwood (MO),2,01-23-2020
+Ball St.,2,George Mason,3,01-23-2020
+McKendree,1,Grand Canyon,3,01-24-2020
+UC San Diego,3,Quincy,0,01-24-2020
+Southern California,0,Ohio St.,3,01-24-2020
+Barton,3,Emmanuel (GA),0,01-24-2020
+Mount Olive,3,Erskine,0,01-24-2020
+Urbana,0,Lewis,3,01-24-2020
+Saint Francis (PA),3,King (TN),2,01-24-2020
+Charleston (WV),1,Loyola Chicago,3,01-24-2020
+Menlo,3,CSUN,1,01-24-2020
+BYU,3,UC Irvine,1,01-24-2020
+UCLA,0,Penn St.,3,01-24-2020
+Lees-McRae,0,Lindenwood (MO),3,01-24-2020
+Sacred Heart,3,Arcadia,1,01-25-2020
+Sacred Heart,3,St. Joseph's (L.I.),0,01-25-2020
+Purdue Fort Wayne,3,George Mason,1,01-25-2020
+Grand Canyon,3,Lindenwood (MO),0,01-25-2020
+Urbana,0,Loyola Chicago,3,01-25-2020
+Pepperdine,1,Long Beach St.,3,01-25-2020
+Cal Lutheran,0,CSUN,3,01-25-2020
+Ball St.,0,NJIT,3,01-25-2020
+UC Santa Barbara,3,Stanford,0,01-25-2020
+St. Francis Brooklyn,3,Elms,2,01-25-2020
+UC San Diego,3,McKendree,2,01-25-2020
+Limestone,3,Queens (NC),0,01-25-2020
+Lees-McRae,0,Quincy,3,01-25-2020
+Belmont Abbey,2,King (TN),3,01-25-2020
+Mount Olive,3,Emmanuel (GA),0,01-25-2020
+St. Andrews,3,Alderson Broaddus,0,01-25-2020
+Saint Francis (PA),2,Lincoln Memorial,3,01-25-2020
+Barton,3,Erskine,0,01-25-2020
+Bluefield Col.,0,Tusculum,3,01-25-2020
+Charleston (WV),0,Lewis,3,01-25-2020
+Lees-McRae,0,McKendree,3,01-26-2020
+Grand Canyon,3,Quincy,0,01-26-2020
+Daemen,3,D'Youville,0,01-26-2020
+UCLA,3,Ohio St.,1,01-26-2020
+Southern California,2,Penn St.,3,01-26-2020
+Princeton,1,UC San Diego,3,01-28-2020
+St. Andrews,0,Erskine,3,01-28-2020
+North Greenville,1,Queens (NC),3,01-28-2020
+Benedictine Mesa,0,Grand Canyon,3,01-29-2020
+St. Andrews,0,Limestone,3,01-29-2020
+Concordia (CA),1,UC Irvine,3,01-30-2020
+Princeton,3,UCLA,1,01-30-2020
+Lewis,3,Barton,0,01-31-2020
+Harvard,3,Sacred Heart,1,01-31-2020
+Queens (NC),3,Charleston (WV),1,01-31-2020
+Lees-McRae,0,King (TN),3,01-31-2020
+UC Santa Barbara,1,BYU,3,01-31-2020
+Wittenberg,1,Daemen,3,01-31-2020
+Ball St.,3,Penn St.,0,01-31-2020
+Loyola Chicago,0,George Mason,3,01-31-2020
+North Greenville,3,Erskine,1,01-31-2020
+Urbana,0,McKendree,3,01-31-2020
+Ohio St.,3,Saint Francis (PA),0,01-31-2020
+Southern California,3,CSUN,2,01-31-2020
+Limestone,2,Emmanuel (GA),3,01-31-2020
+Concordia (CA),3,UC San Diego,1,01-31-2020
+Tusculum,0,Lindenwood (MO),3,01-31-2020
+Belmont Abbey,0,Lincoln Memorial,3,01-31-2020
+St. John Fisher,3,Daemen,1,02-01-2020
+Webber Int'l,3,Erskine,1,02-01-2020
+Urbana,1,Lindenwood (MO),3,02-01-2020
+Princeton,3,CSUN,0,02-01-2020
+Lewis,3,George Mason,0,02-01-2020
+UCLA,3,Long Beach St.,1,02-01-2020
+Ball St.,3,Saint Francis (PA),0,02-01-2020
+Ohio St.,3,Penn St.,0,02-01-2020
+Tusculum,0,McKendree,3,02-01-2020
+Wittenberg,3,Alderson Broaddus,0,02-01-2020
+UC Irvine,3,Southern California,1,02-01-2020
+Quincy,2,St. Xavier,3,02-01-2020
+Stanford,0,Grand Canyon,3,02-01-2020
+UC Santa Barbara,2,BYU,3,02-01-2020
+Alderson Broaddus,0,Daemen,3,02-01-2020
+St. Francis Brooklyn,0,NJIT,3,02-01-2020
+Loyola Chicago,0,Barton,3,02-01-2020
+Belmont Abbey,3,Lees-McRae,1,02-01-2020
+St. Francis Brooklyn,1,Harvard,3,02-02-2020
+UC San Diego,3,Concordia (CA),0,02-04-2020
+North Greenville,0,Limestone,3,02-04-2020
+Concordia (CA),1,UC Irvine,3,02-06-2020
+Pepperdine,3,Stanford,2,02-06-2020
+Queens (NC),0,Hawaii,3,02-06-2020
+Campbellsville,2,Belmont Abbey,3,02-06-2020
+Urbana,0,Ball St.,3,02-06-2020
+Southern California,1,UC San Diego,3,02-06-2020
+UCLA,0,BYU,3,02-06-2020
+Long Beach St.,3,Penn St.,1,02-07-2020
+UC Irvine,3,Queens (NC),1,02-07-2020
+Princeton,3,NJIT,0,02-07-2020
+Concordia (CA),0,Hawaii,3,02-07-2020
+Campbellsville,0,Limestone,3,02-07-2020
+Barton,1,Harvard,3,02-07-2020
+Urbana,0,Purdue Fort Wayne,3,02-07-2020
+Erskine,3,Lees-McRae,0,02-07-2020
+McKendree,3,Lewis,2,02-07-2020
+Emmanuel (GA),1,King (TN),3,02-07-2020
+UC Santa Barbara,3,Ohio St.,1,02-07-2020
+CSUN,1,Lindenwood (MO),3,02-07-2020
+Mount Olive,1,Sacred Heart,3,02-07-2020
+George Mason,3,Charleston (WV),0,02-07-2020
+Erskine,0,King (TN),3,02-08-2020
+UC Irvine,0,Hawaii,3,02-08-2020
+Tusculum,0,Charleston (WV),3,02-08-2020
+CSUN,2,Lindenwood (MO),3,02-08-2020
+Grand Canyon,3,Southern California,0,02-08-2020
+Vanguard,0,UC San Diego,3,02-08-2020
+St. Francis Brooklyn,0,Saint Francis (PA),3,02-08-2020
+Barton,3,Sacred Heart,0,02-08-2020
+Daemen,0,Ball St.,3,02-08-2020
+Grand View,3,Quincy,0,02-08-2020
+UC Santa Barbara,3,Penn St.,2,02-08-2020
+Long Beach St.,3,Ohio St.,1,02-08-2020
+Purdue Fort Wayne,3,Loyola Chicago,0,02-08-2020
+Queens (NC),0,Concordia (CA),3,02-08-2020
+Pepperdine,1,BYU,3,02-08-2020
+Campbellsville,3,North Greenville,0,02-08-2020
+Emmanuel (GA),3,Lees-McRae,1,02-08-2020
+Tusculum,0,George Mason,3,02-08-2020
+Mount Olive,0,Harvard,3,02-08-2020
+UCLA,0,Stanford,3,02-08-2020
+Daemen,3,Urbana,1,02-09-2020
+Daemen,3,Lincoln Memorial,2,02-09-2020
+Lincoln Memorial,3,Urbana,0,02-09-2020
+King (TN),3,North Greenville,0,02-11-2020
+Quincy,3,Culver-Stockton,1,02-11-2020
+Tusculum,,Lincoln Memorial,,02-11-2020
+St. Francis Brooklyn,2,St. Joseph's (L.I.),3,02-12-2020
+Concordia (CA),2,Pepperdine,3,02-12-2020
+Belmont Abbey,3,Limestone,2,02-12-2020
+Lewis,3,Ohio St.,0,02-13-2020
+Purdue Fort Wayne,1,Lindenwood (MO),3,02-13-2020
+McKendree,1,Ball St.,3,02-13-2020
+Loyola Chicago,3,Quincy,1,02-13-2020
+UC Merced,0,CSUN,3,02-14-2020
+SUNY Potsdam,0,Daemen,3,02-14-2020
+BYU,3,Grand Canyon,0,02-14-2020
+Hawaii,3,Stanford,0,02-14-2020
+UCLA,3,Concordia (CA),1,02-14-2020
+Harvard,2,George Mason,3,02-14-2020
+Princeton,1,Penn St.,3,02-14-2020
+Emmanuel (GA),0,Belmont Abbey,3,02-14-2020
+Sacred Heart,1,Charleston (WV),3,02-14-2020
+Tusculum,3,Alderson Broaddus,0,02-14-2020
+North Greenville,1,Mount Olive,3,02-14-2020
+Southern California,0,Pepperdine,3,02-14-2020
+NJIT,3,Saint Francis (PA),1,02-14-2020
+King (TN),2,Lincoln Memorial,3,02-14-2020
+Daemen,3,Wells,2,02-14-2020
+Penn St.-Altoona,1,Daemen,3,02-15-2020
+Lees-McRae,0,Lincoln Memorial,3,02-15-2020
+North Greenville,0,Barton,3,02-15-2020
+Erskine,1,Belmont Abbey,3,02-15-2020
+Limestone,3,Mount Olive,1,02-15-2020
+Loyola Chicago,2,Lindenwood (MO),3,02-15-2020
+Harvard,3,George Mason,1,02-15-2020
+Purdue Fort Wayne,2,Quincy,3,02-15-2020
+Sacred Heart,1,Charleston (WV),3,02-15-2020
+Princeton,3,Saint Francis (PA),2,02-15-2020
+Ottawa (AZ),1,Grand Canyon,3,02-15-2020
+UC San Diego,3,UC Irvine,2,02-15-2020
+NJIT,0,Penn St.,3,02-15-2020
+McKendree,0,Ohio St.,3,02-15-2020
+Hawaii,3,Stanford,0,02-15-2020
+Lewis,3,Ball St.,1,02-15-2020
+New Jersey City,1,St. Francis Brooklyn,3,02-16-2020
+Urbana,3,Alderson Broaddus,0,02-16-2020
+Southern California,1,UCLA,3,02-16-2020
+Limestone,0,Barton,3,02-16-2020
+Tusculum,1,Lees-McRae,3,02-18-2020
+Erskine,0,Emmanuel (GA),3,02-18-2020
+Belmont Abbey,1,North Greenville,3,02-18-2020
+Quincy,0,Lewis,3,02-19-2020
+Barton,3,Mount Olive,0,02-19-2020
+UC Santa Barbara,3,UCLA,0,02-19-2020
+Ball St.,1,Purdue Fort Wayne,3,02-20-2020
+Southern California,3,Stanford,1,02-20-2020
+Alderson Broaddus,0,Queens (NC),3,02-20-2020
+Lindenwood (MO),1,McKendree,3,02-20-2020
+Reinhardt,1,Emmanuel (GA),3,02-20-2020
+Concordia (CA),0,BYU,3,02-20-2020
+Alderson Broaddus,0,North Greenville,3,02-21-2020
+Penn St.,3,Sacred Heart,2,02-21-2020
+UCLA,1,Grand Canyon,3,02-21-2020
+Tusculum,0,Indiana Tech,3,02-21-2020
+Pepperdine,0,UC Santa Barbara,3,02-21-2020
+Saint Francis (PA),2,Harvard,3,02-21-2020
+UC Irvine,0,UC San Diego,3,02-21-2020
+Lincoln Memorial,3,Belmont Abbey,2,02-21-2020
+Barton,3,Queens (NC),1,02-21-2020
+Ohio St.,1,Loyola Chicago,3,02-21-2020
+Vanguard,0,CSUN,3,02-21-2020
+Westcliff,0,Long Beach St.,3,02-21-2020
+NJIT,1,George Mason,3,02-21-2020
+Randolph-Macon,,Mount Olive,,02-21-2020
+Ball St.,,Purdue Fort Wayne,,02-21-2020
+St. Xavier,3,Urbana,1,02-22-2020
+Barton,3,Belmont Abbey,0,02-22-2020
+St. Xavier,3,Tusculum,0,02-22-2020
+Lincoln Memorial,3,Emmanuel (GA),1,02-22-2020
+Tusculum,3,Urbana,2,02-22-2020
+Penn St.,3,Harvard,0,02-22-2020
+Saint Francis (PA),3,Sacred Heart,0,02-22-2020
+Lindenwood (MO),0,Lewis,3,02-22-2020
+Concordia (CA),0,Stanford,3,02-22-2020
+Ohio St.,1,Purdue Fort Wayne,3,02-22-2020
+Quincy,1,McKendree,3,02-22-2020
+Southern California,0,BYU,3,02-22-2020
+Princeton,3,George Mason,1,02-22-2020
+Limestone,0,Lees-McRae,3,02-22-2020
+Ball St.,3,Loyola Chicago,2,02-22-2020
+Daemen,3,Medaille,0,02-23-2020
+Elmira,0,Daemen,3,02-23-2020
+Pepperdine,1,Grand Canyon,3,02-23-2020
+King (TN),,Limestone,,02-24-2020
+UC Irvine,1,Concordia (CA),3,02-25-2020
+Saint Vincent,0,Alderson Broaddus,3,02-25-2020
+Penn St.,3,Saint Francis (PA),0,02-25-2020
+North Greenville,3,Emmanuel (GA),2,02-26-2020
+UC Santa Barbara,3,Pepperdine,0,02-26-2020
+Mount Olive,3,Belmont Abbey,1,02-26-2020
+Limestone,3,Erskine,0,02-26-2020
+St. Francis Brooklyn,2,Barton,3,02-27-2020
+McKendree,1,Loyola Chicago,3,02-27-2020
+Grand Canyon,1,Concordia (CA),3,02-27-2020
+Lewis,3,Purdue Fort Wayne,0,02-27-2020
+Harvard,0,NJIT,3,02-28-2020
+Charleston (WV),0,Saint Francis (PA),3,02-28-2020
+King (TN),0,Mount Olive,3,02-28-2020
+Sacred Heart,0,Princeton,3,02-28-2020
+George Mason,0,Penn St.,3,02-28-2020
+Ball St.,1,Lindenwood (MO),3,02-28-2020
+Grand Canyon,1,UC Irvine,3,02-28-2020
+Ohio St.,3,Quincy,0,02-28-2020
+UC Santa Cruz,0,UC San Diego,3,02-28-2020
+Queens (NC),0,Lincoln Memorial,3,02-28-2020
+Bluefield Col.,0,North Greenville,3,02-28-2020
+Lees-McRae,0,Barton,3,02-28-2020
+UCLA,3,CSUN,0,02-28-2020
+Tusculum,,Limestone,,02-28-2020
+Lees-McRae,0,Mount Olive,3,02-29-2020
+George Mason,3,Saint Francis (PA),1,02-29-2020
+Loyola Chicago,0,Lewis,3,02-29-2020
+Ball St.,3,Quincy,0,02-29-2020
+Charleston (WV),0,Penn St.,3,02-29-2020
+Stanford,0,BYU,3,02-29-2020
+UC Santa Barbara,3,Southern California,0,02-29-2020
+St. Francis Brooklyn,2,Lees-McRae,3,02-29-2020
+Long Beach St.,3,UCLA,2,02-29-2020
+St. Francis Brooklyn,0,Mount Olive,3,02-29-2020
+Wells,3,Daemen,2,02-29-2020
+Limestone,1,Lincoln Memorial,3,02-29-2020
+McKendree,3,Purdue Fort Wayne,1,02-29-2020
+Harvard,0,Princeton,3,02-29-2020
+Sacred Heart,0,NJIT,3,02-29-2020
+Wells,3,Daemen,2,02-29-2020
+Queens (NC),3,Tusculum,0,02-29-2020
+King (TN),0,Barton,3,02-29-2020
+Ohio St.,1,Lindenwood (MO),3,02-29-2020
+St. Joseph's (L.I.),1,St. Francis Brooklyn,3,03-01-2020
+St. Francis Brooklyn,0,Stevens,3,03-01-2020
+Sacred Heart,,North Park,,03-02-2020
+Alderson Broaddus,0,Mount Union,3,03-03-2020
+Geneva,3,Alderson Broaddus,0,03-03-2020
+UCLA,1,UC Santa Barbara,3,03-03-2020
+Sacred Heart,0,Benedictine (IL),3,03-03-2020
+Reinhardt,0,Limestone,3,03-04-2020
+Ball St.,3,Ohio St.,1,03-04-2020
+Lees-McRae,0,Belmont Abbey,3,03-04-2020
+Westcliff,1,Concordia (CA),3,03-05-2020
+BYU,3,Hawaii,0,03-05-2020
+Saint Francis (PA),1,Southern California,3,03-05-2020
+Loyola Chicago,3,Purdue Fort Wayne,1,03-05-2020
+Emmanuel (GA),3,Reinhardt,0,03-05-2020
+Charleston (WV),2,King (TN),3,03-05-2020
+Culver-Stockton,0,Quincy,3,03-05-2020
+CSUN,1,UCLA,3,03-05-2020
+UC Santa Cruz,1,Concordia (CA),3,03-05-2020
+North Greenville,0,UC Irvine,3,03-06-2020
+Vanguard,1,Grand Canyon,3,03-06-2020
+Saint Francis (PA),0,Pepperdine,3,03-06-2020
+North Greenville,3,Grand Canyon,2,03-06-2020
+Lewis,3,Stanford,1,03-06-2020
+BYU,2,Hawaii,3,03-06-2020
+Lindenwood (MO),0,Long Beach St.,3,03-06-2020
+Life (GA),0,Limestone,3,03-06-2020
+UC San Diego,1,UC Santa Barbara,3,03-06-2020
+Urbana,0,Daemen,3,03-06-2020
+Sacred Heart,0,Purdue Fort Wayne,3,03-06-2020
+NJIT,3,Princeton,0,03-06-2020
+Tusculum,1,King (TN),3,03-06-2020
+Menlo,0,Grand Canyon,3,03-07-2020
+Urbana,1,St. Francis Brooklyn,3,03-07-2020
+St. Francis Brooklyn,0,Daemen,3,03-07-2020
+Charleston (WV),2,George Mason,3,03-07-2020
+UC San Diego,1,UCLA,3,03-07-2020
+North Greenville,0,Ottawa (AZ),3,03-07-2020
+UC Irvine,3,Grand Canyon,2,03-07-2020
+Lewis,3,Stanford,1,03-07-2020
+Sacred Heart,0,Ball St.,3,03-07-2020
+Lindenwood (MO),1,Southern California,3,03-07-2020
+Penn St.,,Ohio St.,,03-08-2020
+Bluefield Col.,0,Erskine,3,03-09-2020
+Purdue Fort Wayne,3,P.R.-Rio Piedras,1,03-10-2020
+Tusculum,3,Bluefield Col.,0,03-10-2020
+Emmanuel (GA),0,Lincoln Memorial,3,03-10-2020
+Urbana,1,North Greenville,3,03-10-2020
+Limestone,3,Warner,2,03-10-2020
+Emmanuel (GA),3,Alderson Broaddus,0,03-11-2020
+Penn St.,0,UC San Diego,3,03-11-2020
+Jamestown,0,Pepperdine,3,03-11-2020
+Limestone,3,Webber Int'l,1,03-11-2020
+Alderson Broaddus,0,Lincoln Memorial,3,03-11-2020
+Southern California,2,Concordia (CA),3,03-11-2020
+Ohio St.,,NJIT,,03-12-2020
+Jamestown,,Concordia (CA),,03-12-2020
+UC Santa Barbara,,Long Beach St.,,03-12-2020
+Urbana,,Queens (NC),,03-12-2020
+Grand Canyon,,NJIT,,03-13-2020
+BYU,,Stanford,,03-13-2020
+Long Beach St.,,UC Santa Barbara,,03-13-2020
+Penn St.,,UC Irvine,,03-13-2020
+Hawaii,,CSUN,,03-13-2020
+Emmanuel (GA),,Barton,,03-13-2020
+Lewis,,Loyola Chicago,,03-13-2020
+Urbana,,Lees-McRae,,03-13-2020
+Erskine,,Mount Olive,,03-13-2020
+McKendree,,Charleston (WV),,03-13-2020
+Lincoln Memorial,,Ball St.,,03-13-2020
+Queens (NC),,Belmont Abbey,,03-13-2020
+UCLA,,Pepperdine,,03-13-2020
+King (TN),,Belmont Abbey,,03-14-2020
+Erskine,,Barton,,03-14-2020
+St. Francis Brooklyn,,Wentworth,,03-14-2020
+Emmanuel (GA),,Mount Olive,,03-14-2020
+McKendree,,Charleston (WV),,03-14-2020
+St. Francis Brooklyn,,NYU,,03-14-2020
+Tusculum,,Randolph-Macon,,03-14-2020
+Ohio St.,,George Mason,,03-14-2020
+North Greenville,,Lees-McRae,,03-14-2020
+Hawaii,,CSUN,,03-14-2020
+Grand Canyon,,Princeton,,03-14-2020
+Harvard,,Southern California,,03-14-2020
+Harvard,,Pepperdine,,03-15-2020
+Lincoln Memorial,,Loyola Chicago,,03-15-2020
+Harvard,,Concordia (CA),,03-16-2020
+Hawaii,,Pepperdine,,03-16-2020
+Ball St.,,Lees-McRae,,03-17-2020
+Emmanuel (GA),,Limestone,,03-17-2020
+NJIT,,Concordia (CA),,03-17-2020
+Erskine,,North Greenville,,03-17-2020
+St. Francis Brooklyn,,SUNY New Paltz,,03-18-2020
+Quincy,,Lindenwood (MO),,03-18-2020
+King (TN),,Queens (NC),,03-18-2020
+Princeton,,Lewis,,03-18-2020
+Limestone,,Tusculum,,03-19-2020
+Purdue Fort Wayne,,Saint Francis (PA),,03-19-2020
+NJIT,,CSUN,,03-19-2020
+Bluefield Col.,,Queens (NC),,03-20-2020
+Charleston (WV),,Long Beach St.,,03-20-2020
+Saint Francis (PA),,Penn St.,,03-20-2020
+Urbana,,Lincoln Memorial,,03-20-2020
+Erskine,,Tusculum,,03-20-2020
+Mount Olive,,King (TN),,03-20-2020
+Princeton,,Loyola Chicago,,03-20-2020
+Barton,,Lees-McRae,,03-20-2020
+Charleston (WV),,UC Irvine,,03-21-2020
+Limestone,,Belmont Abbey,,03-21-2020
+Erskine,,Lincoln Memorial,,03-21-2020
+Barton,,King (TN),,03-21-2020
+Emmanuel (GA),,Princeton,,03-21-2020
+Mount Olive,,Lees-McRae,,03-21-2020
+Elms,,Daemen,,03-21-2020
+NJIT,,Pepperdine,,03-21-2020
+Lindenwood (MO),,Quincy,,03-21-2020
+Daemen,,Elmira,,03-21-2020
+Sacred Heart,,St. Francis Brooklyn,,03-21-2020
+Ohio St.,,Ball St.,,03-21-2020
+Lewis,,McKendree,,03-21-2020
+Long Beach St.,,George Mason,,03-21-2020
+Purdue Fort Wayne,,Penn St.,,03-21-2020
+St. Francis Brooklyn,,Marymount (VA),,03-22-2020
+Queens (NC),,Alderson Broaddus,,03-22-2020
+Emmanuel (GA),,Loyola Chicago,,03-22-2020
+Urbana,,Mount Union,,03-22-2020
+UC Irvine,,George Mason,,03-22-2020
+Belmont Abbey,,Barton,,03-24-2020
+Lincoln Memorial,,King (TN),,03-24-2020
+Limestone,,North Greenville,,03-24-2020
+Vanguard,,UC Santa Barbara,,03-24-2020
+St. Andrews,,Emmanuel (GA),,03-24-2020
+Pepperdine,,UCLA,,03-25-2020
+King (TN),,Lees-McRae,,03-25-2020
+Webber Int'l,,Emmanuel (GA),,03-25-2020
+BYU,,Southern California,,03-26-2020
+Milligan,,Tusculum,,03-26-2020
+Stanford,,Concordia (CA),,03-26-2020
+Purdue Fort Wayne,,McKendree,,03-26-2020
+Long Beach St.,,UC Irvine,,03-26-2020
+Charleston (WV),,NJIT,,03-27-2020
+Tusculum,,Queens (NC),,03-27-2020
+Grand Canyon,,Pepperdine,,03-27-2020
+Mount Olive,,North Greenville,,03-27-2020
+UC Irvine,,Long Beach St.,,03-27-2020
+Lees-McRae,,Erskine,,03-27-2020
+Quincy,,Ball St.,,03-27-2020
+UC Santa Barbara,,CSUN,,03-27-2020
+UC San Diego,,Hawaii,,03-27-2020
+Barton,,Limestone,,03-27-2020
+Belmont Abbey,,Campbellsville,,03-27-2020
+Lindenwood (MO),,Ohio St.,,03-27-2020
+St. Francis Brooklyn,,Princeton,,03-27-2020
+BYU,,Concordia (CA),,03-27-2020
+Saint Francis (PA),,Daemen,,03-27-2020
+St. Francis Brooklyn,,NYU,,03-28-2020
+Lincoln Memorial,,Queens (NC),,03-28-2020
+Purdue Fort Wayne,,Lewis,,03-28-2020
+Lindenwood (MO),,Ball St.,,03-28-2020
+CSUN,,UC Santa Barbara,,03-28-2020
+UC San Diego,,Hawaii,,03-28-2020
+Stanford,,Southern California,,03-28-2020
+Charleston (WV),,NJIT,,03-28-2020
+Grand Canyon,,UCLA,,03-28-2020
+TBA,,Belmont Abbey,,03-28-2020
+Sacred Heart,,Harvard,,03-28-2020
+King (TN),,George Mason,,03-28-2020
+SUNY New Paltz,,Daemen,,03-28-2020
+Loyola Chicago,,McKendree,,03-28-2020
+Daemen,,St. John Fisher,,03-28-2020
+St. Francis Brooklyn,,Rivier,,03-28-2020
+Alderson Broaddus,,Urbana,,03-28-2020
+Lees-McRae,,Emmanuel (GA),,03-28-2020
+Mount Olive,,Limestone,,03-28-2020
+TBA,,Belmont Abbey,,03-28-2020
+Barton,,North Greenville,,03-28-2020
+Erskine,,St. Andrews,,03-28-2020
+Quincy,,Ohio St.,,03-28-2020
+Queens (NC),,Erskine,,03-31-2020
+North Greenville,,King (TN),,03-31-2020
+Lees-McRae,,Limestone,,03-31-2020
+UC Santa Barbara,,UC Irvine,,04-01-2020
+Grand Canyon,,BYU,,04-02-2020
+Pepperdine,,Southern California,,04-02-2020
+Concordia (CA),,UCLA,,04-02-2020
+Ohio St.,,McKendree,,04-02-2020
+Ball St.,,Lewis,,04-02-2020
+Daemen,,St. Francis Brooklyn,,04-03-2020
+Penn St.,,NJIT,,04-03-2020
+Saint Francis (PA),,Princeton,,04-03-2020
+King (TN),,Erskine,,04-03-2020
+UC Irvine,,UC Santa Barbara,,04-03-2020
+Quincy,,Purdue Fort Wayne,,04-03-2020
+UC San Diego,,CSUN,,04-03-2020
+Lincoln Memorial,,Alderson Broaddus,,04-03-2020
+Belmont Abbey,,Emmanuel (GA),,04-03-2020
+Charleston (WV),,Harvard,,04-03-2020
+Lindenwood (MO),,Loyola Chicago,,04-03-2020
+Long Beach St.,,Hawaii,,04-03-2020
+George Mason,,Sacred Heart,,04-03-2020
+Lees-McRae,,North Greenville,,04-03-2020
+Daemen,,Vassar,,04-04-2020
+Grand Canyon,,Stanford,,04-04-2020
+UCLA,,Southern California,,04-04-2020
+CSUN,,UC San Diego,,04-04-2020
+Ohio St.,,Lewis,,04-04-2020
+Penn St.,,Princeton,,04-04-2020
+Lindenwood (MO),,Purdue Fort Wayne,,04-04-2020
+Long Beach St.,,Hawaii,,04-04-2020
+Pepperdine,,Concordia (CA),,04-04-2020
+Saint Francis (PA),,NJIT,,04-04-2020
+Belmont Abbey,,Erskine,,04-04-2020
+George Mason,,Sacred Heart,,04-04-2020
+Ball St.,,McKendree,,04-04-2020
+Charleston (WV),,Harvard,,04-04-2020
+Queens (NC),,Limestone,,04-04-2020
+Baruch,,Daemen,,04-04-2020
+Urbana,,Trine,,04-04-2020
+Urbana,,Adrian,,04-04-2020
+King (TN),,Emmanuel (GA),,04-04-2020
+Quincy,,Loyola Chicago,,04-04-2020
+Springfield,,Sacred Heart,,04-07-2020
+Emmanuel (GA),,Erskine,,04-07-2020
+Limestone,,King (TN),,04-07-2020
+Mount Olive,,Barton,,04-07-2020
+North Greenville,,Belmont Abbey,,04-07-2020
+Queens (NC),,Lees-McRae,,04-08-2020
+Southern California,,Grand Canyon,,04-09-2020
+Lewis,,Lindenwood (MO),,04-09-2020
+Loyola Chicago,,Ball St.,,04-09-2020
+Stanford,,UCLA,,04-09-2020
+McKendree,,Quincy,,04-09-2020
+Purdue Fort Wayne,,Ohio St.,,04-09-2020
+Queens (NC),,King (TN),,04-09-2020
+BYU,,Pepperdine,,04-09-2020
+George Mason,,NJIT,,04-10-2020
+King (TN),,Charleston (WV),,04-10-2020
+Long Beach St.,,UC San Diego,,04-10-2020
+Harvard,,Penn St.,,04-10-2020
+CSUN,,UC Irvine,,04-10-2020
+Sacred Heart,,Saint Francis (PA),,04-10-2020
+Hawaii,,UC Santa Barbara,,04-10-2020
+Urbana,,Charleston (WV),,04-11-2020
+Harvard,,Saint Francis (PA),,04-11-2020
+Concordia (CA),,Grand Canyon,,04-11-2020
+Sacred Heart,,Penn St.,,04-11-2020
+Lewis,,Quincy,,04-11-2020
+Stanford,,Pepperdine,,04-11-2020
+BYU,,UCLA,,04-11-2020
+McKendree,,Lindenwood (MO),,04-11-2020
+Loyola Chicago,,Ohio St.,,04-11-2020
+UC San Diego,,Long Beach St.,,04-11-2020
+UC Irvine,,CSUN,,04-11-2020
+Purdue Fort Wayne,,Ball St.,,04-11-2020
+George Mason,,Princeton,,04-11-2020
+Hawaii,,UC Santa Barbara,,04-11-2020
+Saint Francis (PA),,George Mason,,04-16-2020
+Penn St.,,Charleston (WV),,04-16-2020
+NJIT,,Sacred Heart,,04-17-2020
+UC Santa Barbara,,UC San Diego,,04-17-2020
+UC Irvine,,Hawaii,,04-17-2020
+Long Beach St.,,CSUN,,04-17-2020
+Princeton,,Harvard,,04-17-2020
+Princeton,,Sacred Heart,,04-18-2020
+NJIT,,Harvard,,04-18-2020
+Saint Francis (PA),,Charleston (WV),,04-18-2020
+Penn St.,,George Mason,,04-18-2020
+UC Irvine,,Hawaii,,04-18-2020
+CSUN,,Long Beach St.,,04-18-2020
